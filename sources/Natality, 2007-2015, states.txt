@@ -1,0 +1,1433 @@
+"Notes"	"Year"	"Year Code"	"State"	"State Code"	"Gender"	"Gender Code"	Births
+	"2007"	"2007"	"Alabama"	"01"	"Female"	"F"	31942
+	"2007"	"2007"	"Alabama"	"01"	"Male"	"M"	32862
+"Total"	"2007"	"2007"	"Alabama"	"01"			64804
+	"2007"	"2007"	"Alaska"	"02"	"Female"	"F"	5373
+	"2007"	"2007"	"Alaska"	"02"	"Male"	"M"	5679
+"Total"	"2007"	"2007"	"Alaska"	"02"			11052
+	"2007"	"2007"	"Arizona"	"04"	"Female"	"F"	50300
+	"2007"	"2007"	"Arizona"	"04"	"Male"	"M"	52681
+"Total"	"2007"	"2007"	"Arizona"	"04"			102981
+	"2007"	"2007"	"Arkansas"	"05"	"Female"	"F"	20185
+	"2007"	"2007"	"Arkansas"	"05"	"Male"	"M"	21193
+"Total"	"2007"	"2007"	"Arkansas"	"05"			41378
+	"2007"	"2007"	"California"	"06"	"Female"	"F"	276403
+	"2007"	"2007"	"California"	"06"	"Male"	"M"	290011
+"Total"	"2007"	"2007"	"California"	"06"			566414
+	"2007"	"2007"	"Colorado"	"08"	"Female"	"F"	34515
+	"2007"	"2007"	"Colorado"	"08"	"Male"	"M"	36294
+"Total"	"2007"	"2007"	"Colorado"	"08"			70809
+	"2007"	"2007"	"Connecticut"	"09"	"Female"	"F"	20388
+	"2007"	"2007"	"Connecticut"	"09"	"Male"	"M"	21272
+"Total"	"2007"	"2007"	"Connecticut"	"09"			41660
+	"2007"	"2007"	"Delaware"	"10"	"Female"	"F"	5990
+	"2007"	"2007"	"Delaware"	"10"	"Male"	"M"	6180
+"Total"	"2007"	"2007"	"Delaware"	"10"			12170
+	"2007"	"2007"	"District of Columbia"	"11"	"Female"	"F"	4323
+	"2007"	"2007"	"District of Columbia"	"11"	"Male"	"M"	4541
+"Total"	"2007"	"2007"	"District of Columbia"	"11"			8864
+	"2007"	"2007"	"Florida"	"12"	"Female"	"F"	116642
+	"2007"	"2007"	"Florida"	"12"	"Male"	"M"	122523
+"Total"	"2007"	"2007"	"Florida"	"12"			239165
+	"2007"	"2007"	"Georgia"	"13"	"Female"	"F"	73854
+	"2007"	"2007"	"Georgia"	"13"	"Male"	"M"	77283
+"Total"	"2007"	"2007"	"Georgia"	"13"			151137
+	"2007"	"2007"	"Hawaii"	"15"	"Female"	"F"	9276
+	"2007"	"2007"	"Hawaii"	"15"	"Male"	"M"	9858
+"Total"	"2007"	"2007"	"Hawaii"	"15"			19134
+	"2007"	"2007"	"Idaho"	"16"	"Female"	"F"	12128
+	"2007"	"2007"	"Idaho"	"16"	"Male"	"M"	12891
+"Total"	"2007"	"2007"	"Idaho"	"16"			25019
+	"2007"	"2007"	"Illinois"	"17"	"Female"	"F"	88555
+	"2007"	"2007"	"Illinois"	"17"	"Male"	"M"	92281
+"Total"	"2007"	"2007"	"Illinois"	"17"			180836
+	"2007"	"2007"	"Indiana"	"18"	"Female"	"F"	43843
+	"2007"	"2007"	"Indiana"	"18"	"Male"	"M"	46021
+"Total"	"2007"	"2007"	"Indiana"	"18"			89864
+	"2007"	"2007"	"Iowa"	"19"	"Female"	"F"	19950
+	"2007"	"2007"	"Iowa"	"19"	"Male"	"M"	20936
+"Total"	"2007"	"2007"	"Iowa"	"19"			40886
+	"2007"	"2007"	"Kansas"	"20"	"Female"	"F"	20558
+	"2007"	"2007"	"Kansas"	"20"	"Male"	"M"	21446
+"Total"	"2007"	"2007"	"Kansas"	"20"			42004
+	"2007"	"2007"	"Kentucky"	"21"	"Female"	"F"	29053
+	"2007"	"2007"	"Kentucky"	"21"	"Male"	"M"	30315
+"Total"	"2007"	"2007"	"Kentucky"	"21"			59368
+	"2007"	"2007"	"Louisiana"	"22"	"Female"	"F"	32585
+	"2007"	"2007"	"Louisiana"	"22"	"Male"	"M"	33716
+"Total"	"2007"	"2007"	"Louisiana"	"22"			66301
+	"2007"	"2007"	"Maine"	"23"	"Female"	"F"	6897
+	"2007"	"2007"	"Maine"	"23"	"Male"	"M"	7223
+"Total"	"2007"	"2007"	"Maine"	"23"			14120
+	"2007"	"2007"	"Maryland"	"24"	"Female"	"F"	38215
+	"2007"	"2007"	"Maryland"	"24"	"Male"	"M"	39880
+"Total"	"2007"	"2007"	"Maryland"	"24"			78095
+	"2007"	"2007"	"Massachusetts"	"25"	"Female"	"F"	37924
+	"2007"	"2007"	"Massachusetts"	"25"	"Male"	"M"	40043
+"Total"	"2007"	"2007"	"Massachusetts"	"25"			77967
+	"2007"	"2007"	"Michigan"	"26"	"Female"	"F"	60942
+	"2007"	"2007"	"Michigan"	"26"	"Male"	"M"	64319
+"Total"	"2007"	"2007"	"Michigan"	"26"			125261
+	"2007"	"2007"	"Minnesota"	"27"	"Female"	"F"	36235
+	"2007"	"2007"	"Minnesota"	"27"	"Male"	"M"	37500
+"Total"	"2007"	"2007"	"Minnesota"	"27"			73735
+	"2007"	"2007"	"Mississippi"	"28"	"Female"	"F"	22669
+	"2007"	"2007"	"Mississippi"	"28"	"Male"	"M"	23822
+"Total"	"2007"	"2007"	"Mississippi"	"28"			46491
+	"2007"	"2007"	"Missouri"	"29"	"Female"	"F"	40112
+	"2007"	"2007"	"Missouri"	"29"	"Male"	"M"	41818
+"Total"	"2007"	"2007"	"Missouri"	"29"			81930
+	"2007"	"2007"	"Montana"	"30"	"Female"	"F"	6073
+	"2007"	"2007"	"Montana"	"30"	"Male"	"M"	6366
+"Total"	"2007"	"2007"	"Montana"	"30"			12439
+	"2007"	"2007"	"Nebraska"	"31"	"Female"	"F"	13065
+	"2007"	"2007"	"Nebraska"	"31"	"Male"	"M"	13869
+"Total"	"2007"	"2007"	"Nebraska"	"31"			26934
+	"2007"	"2007"	"Nevada"	"32"	"Female"	"F"	20122
+	"2007"	"2007"	"Nevada"	"32"	"Male"	"M"	21059
+"Total"	"2007"	"2007"	"Nevada"	"32"			41181
+	"2007"	"2007"	"New Hampshire"	"33"	"Female"	"F"	6901
+	"2007"	"2007"	"New Hampshire"	"33"	"Male"	"M"	7267
+"Total"	"2007"	"2007"	"New Hampshire"	"33"			14168
+	"2007"	"2007"	"New Jersey"	"34"	"Female"	"F"	56974
+	"2007"	"2007"	"New Jersey"	"34"	"Male"	"M"	59089
+"Total"	"2007"	"2007"	"New Jersey"	"34"			116063
+	"2007"	"2007"	"New Mexico"	"35"	"Female"	"F"	14891
+	"2007"	"2007"	"New Mexico"	"35"	"Male"	"M"	15725
+"Total"	"2007"	"2007"	"New Mexico"	"35"			30616
+	"2007"	"2007"	"New York"	"36"	"Female"	"F"	124013
+	"2007"	"2007"	"New York"	"36"	"Male"	"M"	129438
+"Total"	"2007"	"2007"	"New York"	"36"			253451
+	"2007"	"2007"	"North Carolina"	"37"	"Female"	"F"	63804
+	"2007"	"2007"	"North Carolina"	"37"	"Male"	"M"	67233
+"Total"	"2007"	"2007"	"North Carolina"	"37"			131037
+	"2007"	"2007"	"North Dakota"	"38"	"Female"	"F"	4283
+	"2007"	"2007"	"North Dakota"	"38"	"Male"	"M"	4557
+"Total"	"2007"	"2007"	"North Dakota"	"38"			8840
+	"2007"	"2007"	"Ohio"	"39"	"Female"	"F"	73759
+	"2007"	"2007"	"Ohio"	"39"	"Male"	"M"	77120
+"Total"	"2007"	"2007"	"Ohio"	"39"			150879
+	"2007"	"2007"	"Oklahoma"	"40"	"Female"	"F"	26947
+	"2007"	"2007"	"Oklahoma"	"40"	"Male"	"M"	28118
+"Total"	"2007"	"2007"	"Oklahoma"	"40"			55065
+	"2007"	"2007"	"Oregon"	"41"	"Female"	"F"	24075
+	"2007"	"2007"	"Oregon"	"41"	"Male"	"M"	25303
+"Total"	"2007"	"2007"	"Oregon"	"41"			49378
+	"2007"	"2007"	"Pennsylvania"	"42"	"Female"	"F"	73484
+	"2007"	"2007"	"Pennsylvania"	"42"	"Male"	"M"	77229
+"Total"	"2007"	"2007"	"Pennsylvania"	"42"			150713
+	"2007"	"2007"	"Rhode Island"	"44"	"Female"	"F"	5988
+	"2007"	"2007"	"Rhode Island"	"44"	"Male"	"M"	6388
+"Total"	"2007"	"2007"	"Rhode Island"	"44"			12376
+	"2007"	"2007"	"South Carolina"	"45"	"Female"	"F"	30838
+	"2007"	"2007"	"South Carolina"	"45"	"Male"	"M"	32037
+"Total"	"2007"	"2007"	"South Carolina"	"45"			62875
+	"2007"	"2007"	"South Dakota"	"46"	"Female"	"F"	5951
+	"2007"	"2007"	"South Dakota"	"46"	"Male"	"M"	6310
+"Total"	"2007"	"2007"	"South Dakota"	"46"			12261
+	"2007"	"2007"	"Tennessee"	"47"	"Female"	"F"	42331
+	"2007"	"2007"	"Tennessee"	"47"	"Male"	"M"	44380
+"Total"	"2007"	"2007"	"Tennessee"	"47"			86711
+	"2007"	"2007"	"Texas"	"48"	"Female"	"F"	199308
+	"2007"	"2007"	"Texas"	"48"	"Male"	"M"	208317
+"Total"	"2007"	"2007"	"Texas"	"48"			407625
+	"2007"	"2007"	"Utah"	"49"	"Female"	"F"	26761
+	"2007"	"2007"	"Utah"	"49"	"Male"	"M"	28369
+"Total"	"2007"	"2007"	"Utah"	"49"			55130
+	"2007"	"2007"	"Vermont"	"50"	"Female"	"F"	3214
+	"2007"	"2007"	"Vermont"	"50"	"Male"	"M"	3299
+"Total"	"2007"	"2007"	"Vermont"	"50"			6513
+	"2007"	"2007"	"Virginia"	"51"	"Female"	"F"	53173
+	"2007"	"2007"	"Virginia"	"51"	"Male"	"M"	55711
+"Total"	"2007"	"2007"	"Virginia"	"51"			108884
+	"2007"	"2007"	"Washington"	"53"	"Female"	"F"	43241
+	"2007"	"2007"	"Washington"	"53"	"Male"	"M"	45737
+"Total"	"2007"	"2007"	"Washington"	"53"			88978
+	"2007"	"2007"	"West Virginia"	"54"	"Female"	"F"	10705
+	"2007"	"2007"	"West Virginia"	"54"	"Male"	"M"	11289
+"Total"	"2007"	"2007"	"West Virginia"	"54"			21994
+	"2007"	"2007"	"Wisconsin"	"55"	"Female"	"F"	35524
+	"2007"	"2007"	"Wisconsin"	"55"	"Male"	"M"	37260
+"Total"	"2007"	"2007"	"Wisconsin"	"55"			72784
+	"2007"	"2007"	"Wyoming"	"56"	"Female"	"F"	3880
+	"2007"	"2007"	"Wyoming"	"56"	"Male"	"M"	4013
+"Total"	"2007"	"2007"	"Wyoming"	"56"			7893
+"Total"	"2007"	"2007"					4316233
+	"2008"	"2008"	"Alabama"	"01"	"Female"	"F"	31672
+	"2008"	"2008"	"Alabama"	"01"	"Male"	"M"	32874
+"Total"	"2008"	"2008"	"Alabama"	"01"			64546
+	"2008"	"2008"	"Alaska"	"02"	"Female"	"F"	5518
+	"2008"	"2008"	"Alaska"	"02"	"Male"	"M"	5924
+"Total"	"2008"	"2008"	"Alaska"	"02"			11442
+	"2008"	"2008"	"Arizona"	"04"	"Female"	"F"	48672
+	"2008"	"2008"	"Arizona"	"04"	"Male"	"M"	50770
+"Total"	"2008"	"2008"	"Arizona"	"04"			99442
+	"2008"	"2008"	"Arkansas"	"05"	"Female"	"F"	19870
+	"2008"	"2008"	"Arkansas"	"05"	"Male"	"M"	20799
+"Total"	"2008"	"2008"	"Arkansas"	"05"			40669
+	"2008"	"2008"	"California"	"06"	"Female"	"F"	269041
+	"2008"	"2008"	"California"	"06"	"Male"	"M"	282738
+"Total"	"2008"	"2008"	"California"	"06"			551779
+	"2008"	"2008"	"Colorado"	"08"	"Female"	"F"	33958
+	"2008"	"2008"	"Colorado"	"08"	"Male"	"M"	36073
+"Total"	"2008"	"2008"	"Colorado"	"08"			70031
+	"2008"	"2008"	"Connecticut"	"09"	"Female"	"F"	19619
+	"2008"	"2008"	"Connecticut"	"09"	"Male"	"M"	20780
+"Total"	"2008"	"2008"	"Connecticut"	"09"			40399
+	"2008"	"2008"	"Delaware"	"10"	"Female"	"F"	5917
+	"2008"	"2008"	"Delaware"	"10"	"Male"	"M"	6173
+"Total"	"2008"	"2008"	"Delaware"	"10"			12090
+	"2008"	"2008"	"District of Columbia"	"11"	"Female"	"F"	4486
+	"2008"	"2008"	"District of Columbia"	"11"	"Male"	"M"	4644
+"Total"	"2008"	"2008"	"District of Columbia"	"11"			9130
+	"2008"	"2008"	"Florida"	"12"	"Female"	"F"	112627
+	"2008"	"2008"	"Florida"	"12"	"Male"	"M"	118818
+"Total"	"2008"	"2008"	"Florida"	"12"			231445
+	"2008"	"2008"	"Georgia"	"13"	"Female"	"F"	71562
+	"2008"	"2008"	"Georgia"	"13"	"Male"	"M"	75041
+"Total"	"2008"	"2008"	"Georgia"	"13"			146603
+	"2008"	"2008"	"Hawaii"	"15"	"Female"	"F"	9397
+	"2008"	"2008"	"Hawaii"	"15"	"Male"	"M"	10087
+"Total"	"2008"	"2008"	"Hawaii"	"15"			19484
+	"2008"	"2008"	"Idaho"	"16"	"Female"	"F"	12382
+	"2008"	"2008"	"Idaho"	"16"	"Male"	"M"	12767
+"Total"	"2008"	"2008"	"Idaho"	"16"			25149
+	"2008"	"2008"	"Illinois"	"17"	"Female"	"F"	86805
+	"2008"	"2008"	"Illinois"	"17"	"Male"	"M"	89990
+"Total"	"2008"	"2008"	"Illinois"	"17"			176795
+	"2008"	"2008"	"Indiana"	"18"	"Female"	"F"	43390
+	"2008"	"2008"	"Indiana"	"18"	"Male"	"M"	45352
+"Total"	"2008"	"2008"	"Indiana"	"18"			88742
+	"2008"	"2008"	"Iowa"	"19"	"Female"	"F"	19615
+	"2008"	"2008"	"Iowa"	"19"	"Male"	"M"	20609
+"Total"	"2008"	"2008"	"Iowa"	"19"			40224
+	"2008"	"2008"	"Kansas"	"20"	"Female"	"F"	20442
+	"2008"	"2008"	"Kansas"	"20"	"Male"	"M"	21391
+"Total"	"2008"	"2008"	"Kansas"	"20"			41833
+	"2008"	"2008"	"Kentucky"	"21"	"Female"	"F"	28700
+	"2008"	"2008"	"Kentucky"	"21"	"Male"	"M"	29675
+"Total"	"2008"	"2008"	"Kentucky"	"21"			58375
+	"2008"	"2008"	"Louisiana"	"22"	"Female"	"F"	31888
+	"2008"	"2008"	"Louisiana"	"22"	"Male"	"M"	33380
+"Total"	"2008"	"2008"	"Louisiana"	"22"			65268
+	"2008"	"2008"	"Maine"	"23"	"Female"	"F"	6643
+	"2008"	"2008"	"Maine"	"23"	"Male"	"M"	6966
+"Total"	"2008"	"2008"	"Maine"	"23"			13609
+	"2008"	"2008"	"Maryland"	"24"	"Female"	"F"	37744
+	"2008"	"2008"	"Maryland"	"24"	"Male"	"M"	39545
+"Total"	"2008"	"2008"	"Maryland"	"24"			77289
+	"2008"	"2008"	"Massachusetts"	"25"	"Female"	"F"	37556
+	"2008"	"2008"	"Massachusetts"	"25"	"Male"	"M"	39466
+"Total"	"2008"	"2008"	"Massachusetts"	"25"			77022
+	"2008"	"2008"	"Michigan"	"26"	"Female"	"F"	59147
+	"2008"	"2008"	"Michigan"	"26"	"Male"	"M"	61980
+"Total"	"2008"	"2008"	"Michigan"	"26"			121127
+	"2008"	"2008"	"Minnesota"	"27"	"Female"	"F"	35373
+	"2008"	"2008"	"Minnesota"	"27"	"Male"	"M"	37048
+"Total"	"2008"	"2008"	"Minnesota"	"27"			72421
+	"2008"	"2008"	"Mississippi"	"28"	"Female"	"F"	22102
+	"2008"	"2008"	"Mississippi"	"28"	"Male"	"M"	22845
+"Total"	"2008"	"2008"	"Mississippi"	"28"			44947
+	"2008"	"2008"	"Missouri"	"29"	"Female"	"F"	39543
+	"2008"	"2008"	"Missouri"	"29"	"Male"	"M"	41420
+"Total"	"2008"	"2008"	"Missouri"	"29"			80963
+	"2008"	"2008"	"Montana"	"30"	"Female"	"F"	6132
+	"2008"	"2008"	"Montana"	"30"	"Male"	"M"	6462
+"Total"	"2008"	"2008"	"Montana"	"30"			12594
+	"2008"	"2008"	"Nebraska"	"31"	"Female"	"F"	13232
+	"2008"	"2008"	"Nebraska"	"31"	"Male"	"M"	13757
+"Total"	"2008"	"2008"	"Nebraska"	"31"			26989
+	"2008"	"2008"	"Nevada"	"32"	"Female"	"F"	19300
+	"2008"	"2008"	"Nevada"	"32"	"Male"	"M"	20206
+"Total"	"2008"	"2008"	"Nevada"	"32"			39506
+	"2008"	"2008"	"New Hampshire"	"33"	"Female"	"F"	6662
+	"2008"	"2008"	"New Hampshire"	"33"	"Male"	"M"	7021
+"Total"	"2008"	"2008"	"New Hampshire"	"33"			13683
+	"2008"	"2008"	"New Jersey"	"34"	"Female"	"F"	55055
+	"2008"	"2008"	"New Jersey"	"34"	"Male"	"M"	57655
+"Total"	"2008"	"2008"	"New Jersey"	"34"			112710
+	"2008"	"2008"	"New Mexico"	"35"	"Female"	"F"	14830
+	"2008"	"2008"	"New Mexico"	"35"	"Male"	"M"	15343
+"Total"	"2008"	"2008"	"New Mexico"	"35"			30173
+	"2008"	"2008"	"New York"	"36"	"Female"	"F"	121816
+	"2008"	"2008"	"New York"	"36"	"Male"	"M"	128567
+"Total"	"2008"	"2008"	"New York"	"36"			250383
+	"2008"	"2008"	"North Carolina"	"37"	"Female"	"F"	63765
+	"2008"	"2008"	"North Carolina"	"37"	"Male"	"M"	67074
+"Total"	"2008"	"2008"	"North Carolina"	"37"			130839
+	"2008"	"2008"	"North Dakota"	"38"	"Female"	"F"	4365
+	"2008"	"2008"	"North Dakota"	"38"	"Male"	"M"	4573
+"Total"	"2008"	"2008"	"North Dakota"	"38"			8938
+	"2008"	"2008"	"Ohio"	"39"	"Female"	"F"	73023
+	"2008"	"2008"	"Ohio"	"39"	"Male"	"M"	75798
+"Total"	"2008"	"2008"	"Ohio"	"39"			148821
+	"2008"	"2008"	"Oklahoma"	"40"	"Female"	"F"	26857
+	"2008"	"2008"	"Oklahoma"	"40"	"Male"	"M"	27924
+"Total"	"2008"	"2008"	"Oklahoma"	"40"			54781
+	"2008"	"2008"	"Oregon"	"41"	"Female"	"F"	23951
+	"2008"	"2008"	"Oregon"	"41"	"Male"	"M"	25145
+"Total"	"2008"	"2008"	"Oregon"	"41"			49096
+	"2008"	"2008"	"Pennsylvania"	"42"	"Female"	"F"	72690
+	"2008"	"2008"	"Pennsylvania"	"42"	"Male"	"M"	76583
+"Total"	"2008"	"2008"	"Pennsylvania"	"42"			149273
+	"2008"	"2008"	"Rhode Island"	"44"	"Female"	"F"	5857
+	"2008"	"2008"	"Rhode Island"	"44"	"Male"	"M"	6191
+"Total"	"2008"	"2008"	"Rhode Island"	"44"			12048
+	"2008"	"2008"	"South Carolina"	"45"	"Female"	"F"	30940
+	"2008"	"2008"	"South Carolina"	"45"	"Male"	"M"	32131
+"Total"	"2008"	"2008"	"South Carolina"	"45"			63071
+	"2008"	"2008"	"South Dakota"	"46"	"Female"	"F"	5857
+	"2008"	"2008"	"South Dakota"	"46"	"Male"	"M"	6214
+"Total"	"2008"	"2008"	"South Dakota"	"46"			12071
+	"2008"	"2008"	"Tennessee"	"47"	"Female"	"F"	42002
+	"2008"	"2008"	"Tennessee"	"47"	"Male"	"M"	43558
+"Total"	"2008"	"2008"	"Tennessee"	"47"			85560
+	"2008"	"2008"	"Texas"	"48"	"Female"	"F"	197894
+	"2008"	"2008"	"Texas"	"48"	"Male"	"M"	207660
+"Total"	"2008"	"2008"	"Texas"	"48"			405554
+	"2008"	"2008"	"Utah"	"49"	"Female"	"F"	27107
+	"2008"	"2008"	"Utah"	"49"	"Male"	"M"	28527
+"Total"	"2008"	"2008"	"Utah"	"49"			55634
+	"2008"	"2008"	"Vermont"	"50"	"Female"	"F"	3089
+	"2008"	"2008"	"Vermont"	"50"	"Male"	"M"	3250
+"Total"	"2008"	"2008"	"Vermont"	"50"			6339
+	"2008"	"2008"	"Virginia"	"51"	"Female"	"F"	52391
+	"2008"	"2008"	"Virginia"	"51"	"Male"	"M"	54295
+"Total"	"2008"	"2008"	"Virginia"	"51"			106686
+	"2008"	"2008"	"Washington"	"53"	"Female"	"F"	44210
+	"2008"	"2008"	"Washington"	"53"	"Male"	"M"	46111
+"Total"	"2008"	"2008"	"Washington"	"53"			90321
+	"2008"	"2008"	"West Virginia"	"54"	"Female"	"F"	10358
+	"2008"	"2008"	"West Virginia"	"54"	"Male"	"M"	11143
+"Total"	"2008"	"2008"	"West Virginia"	"54"			21501
+	"2008"	"2008"	"Wisconsin"	"55"	"Female"	"F"	35300
+	"2008"	"2008"	"Wisconsin"	"55"	"Male"	"M"	36961
+"Total"	"2008"	"2008"	"Wisconsin"	"55"			72261
+	"2008"	"2008"	"Wyoming"	"56"	"Female"	"F"	3953
+	"2008"	"2008"	"Wyoming"	"56"	"Male"	"M"	4085
+"Total"	"2008"	"2008"	"Wyoming"	"56"			8038
+"Total"	"2008"	"2008"					4247694
+	"2009"	"2009"	"Alabama"	"01"	"Female"	"F"	30725
+	"2009"	"2009"	"Alabama"	"01"	"Male"	"M"	31750
+"Total"	"2009"	"2009"	"Alabama"	"01"			62475
+	"2009"	"2009"	"Alaska"	"02"	"Female"	"F"	5359
+	"2009"	"2009"	"Alaska"	"02"	"Male"	"M"	5965
+"Total"	"2009"	"2009"	"Alaska"	"02"			11324
+	"2009"	"2009"	"Arizona"	"04"	"Female"	"F"	45362
+	"2009"	"2009"	"Arizona"	"04"	"Male"	"M"	47436
+"Total"	"2009"	"2009"	"Arizona"	"04"			92798
+	"2009"	"2009"	"Arkansas"	"05"	"Female"	"F"	19309
+	"2009"	"2009"	"Arkansas"	"05"	"Male"	"M"	20499
+"Total"	"2009"	"2009"	"Arkansas"	"05"			39808
+	"2009"	"2009"	"California"	"06"	"Female"	"F"	257071
+	"2009"	"2009"	"California"	"06"	"Male"	"M"	269949
+"Total"	"2009"	"2009"	"California"	"06"			527020
+	"2009"	"2009"	"Colorado"	"08"	"Female"	"F"	33448
+	"2009"	"2009"	"Colorado"	"08"	"Male"	"M"	35180
+"Total"	"2009"	"2009"	"Colorado"	"08"			68628
+	"2009"	"2009"	"Connecticut"	"09"	"Female"	"F"	19061
+	"2009"	"2009"	"Connecticut"	"09"	"Male"	"M"	19835
+"Total"	"2009"	"2009"	"Connecticut"	"09"			38896
+	"2009"	"2009"	"Delaware"	"10"	"Female"	"F"	5659
+	"2009"	"2009"	"Delaware"	"10"	"Male"	"M"	5900
+"Total"	"2009"	"2009"	"Delaware"	"10"			11559
+	"2009"	"2009"	"District of Columbia"	"11"	"Female"	"F"	4421
+	"2009"	"2009"	"District of Columbia"	"11"	"Male"	"M"	4619
+"Total"	"2009"	"2009"	"District of Columbia"	"11"			9040
+	"2009"	"2009"	"Florida"	"12"	"Female"	"F"	108243
+	"2009"	"2009"	"Florida"	"12"	"Male"	"M"	113151
+"Total"	"2009"	"2009"	"Florida"	"12"			221394
+	"2009"	"2009"	"Georgia"	"13"	"Female"	"F"	69028
+	"2009"	"2009"	"Georgia"	"13"	"Male"	"M"	72349
+"Total"	"2009"	"2009"	"Georgia"	"13"			141377
+	"2009"	"2009"	"Hawaii"	"15"	"Female"	"F"	9215
+	"2009"	"2009"	"Hawaii"	"15"	"Male"	"M"	9672
+"Total"	"2009"	"2009"	"Hawaii"	"15"			18887
+	"2009"	"2009"	"Idaho"	"16"	"Female"	"F"	11548
+	"2009"	"2009"	"Idaho"	"16"	"Male"	"M"	12189
+"Total"	"2009"	"2009"	"Idaho"	"16"			23737
+	"2009"	"2009"	"Illinois"	"17"	"Female"	"F"	83410
+	"2009"	"2009"	"Illinois"	"17"	"Male"	"M"	87753
+"Total"	"2009"	"2009"	"Illinois"	"17"			171163
+	"2009"	"2009"	"Indiana"	"18"	"Female"	"F"	42469
+	"2009"	"2009"	"Indiana"	"18"	"Male"	"M"	44204
+"Total"	"2009"	"2009"	"Indiana"	"18"			86673
+	"2009"	"2009"	"Iowa"	"19"	"Female"	"F"	19422
+	"2009"	"2009"	"Iowa"	"19"	"Male"	"M"	20279
+"Total"	"2009"	"2009"	"Iowa"	"19"			39701
+	"2009"	"2009"	"Kansas"	"20"	"Female"	"F"	20289
+	"2009"	"2009"	"Kansas"	"20"	"Male"	"M"	21107
+"Total"	"2009"	"2009"	"Kansas"	"20"			41396
+	"2009"	"2009"	"Kentucky"	"21"	"Female"	"F"	27938
+	"2009"	"2009"	"Kentucky"	"21"	"Male"	"M"	29613
+"Total"	"2009"	"2009"	"Kentucky"	"21"			57551
+	"2009"	"2009"	"Louisiana"	"22"	"Female"	"F"	31828
+	"2009"	"2009"	"Louisiana"	"22"	"Male"	"M"	33145
+"Total"	"2009"	"2009"	"Louisiana"	"22"			64973
+	"2009"	"2009"	"Maine"	"23"	"Female"	"F"	6538
+	"2009"	"2009"	"Maine"	"23"	"Male"	"M"	6932
+"Total"	"2009"	"2009"	"Maine"	"23"			13470
+	"2009"	"2009"	"Maryland"	"24"	"Female"	"F"	36866
+	"2009"	"2009"	"Maryland"	"24"	"Male"	"M"	38193
+"Total"	"2009"	"2009"	"Maryland"	"24"			75059
+	"2009"	"2009"	"Massachusetts"	"25"	"Female"	"F"	36461
+	"2009"	"2009"	"Massachusetts"	"25"	"Male"	"M"	38555
+"Total"	"2009"	"2009"	"Massachusetts"	"25"			75016
+	"2009"	"2009"	"Michigan"	"26"	"Female"	"F"	57133
+	"2009"	"2009"	"Michigan"	"26"	"Male"	"M"	60161
+"Total"	"2009"	"2009"	"Michigan"	"26"			117294
+	"2009"	"2009"	"Minnesota"	"27"	"Female"	"F"	34322
+	"2009"	"2009"	"Minnesota"	"27"	"Male"	"M"	36324
+"Total"	"2009"	"2009"	"Minnesota"	"27"			70646
+	"2009"	"2009"	"Mississippi"	"28"	"Female"	"F"	20975
+	"2009"	"2009"	"Mississippi"	"28"	"Male"	"M"	21926
+"Total"	"2009"	"2009"	"Mississippi"	"28"			42901
+	"2009"	"2009"	"Missouri"	"29"	"Female"	"F"	38178
+	"2009"	"2009"	"Missouri"	"29"	"Male"	"M"	40727
+"Total"	"2009"	"2009"	"Missouri"	"29"			78905
+	"2009"	"2009"	"Montana"	"30"	"Female"	"F"	6009
+	"2009"	"2009"	"Montana"	"30"	"Male"	"M"	6248
+"Total"	"2009"	"2009"	"Montana"	"30"			12257
+	"2009"	"2009"	"Nebraska"	"31"	"Female"	"F"	13103
+	"2009"	"2009"	"Nebraska"	"31"	"Male"	"M"	13833
+"Total"	"2009"	"2009"	"Nebraska"	"31"			26936
+	"2009"	"2009"	"Nevada"	"32"	"Female"	"F"	18289
+	"2009"	"2009"	"Nevada"	"32"	"Male"	"M"	19323
+"Total"	"2009"	"2009"	"Nevada"	"32"			37612
+	"2009"	"2009"	"New Hampshire"	"33"	"Female"	"F"	6524
+	"2009"	"2009"	"New Hampshire"	"33"	"Male"	"M"	6853
+"Total"	"2009"	"2009"	"New Hampshire"	"33"			13377
+	"2009"	"2009"	"New Jersey"	"34"	"Female"	"F"	53700
+	"2009"	"2009"	"New Jersey"	"34"	"Male"	"M"	56631
+"Total"	"2009"	"2009"	"New Jersey"	"34"			110331
+	"2009"	"2009"	"New Mexico"	"35"	"Female"	"F"	14221
+	"2009"	"2009"	"New Mexico"	"35"	"Male"	"M"	14779
+"Total"	"2009"	"2009"	"New Mexico"	"35"			29000
+	"2009"	"2009"	"New York"	"36"	"Female"	"F"	120877
+	"2009"	"2009"	"New York"	"36"	"Male"	"M"	127233
+"Total"	"2009"	"2009"	"New York"	"36"			248110
+	"2009"	"2009"	"North Carolina"	"37"	"Female"	"F"	61838
+	"2009"	"2009"	"North Carolina"	"37"	"Male"	"M"	65007
+"Total"	"2009"	"2009"	"North Carolina"	"37"			126845
+	"2009"	"2009"	"North Dakota"	"38"	"Female"	"F"	4418
+	"2009"	"2009"	"North Dakota"	"38"	"Male"	"M"	4583
+"Total"	"2009"	"2009"	"North Dakota"	"38"			9001
+	"2009"	"2009"	"Ohio"	"39"	"Female"	"F"	70760
+	"2009"	"2009"	"Ohio"	"39"	"Male"	"M"	74081
+"Total"	"2009"	"2009"	"Ohio"	"39"			144841
+	"2009"	"2009"	"Oklahoma"	"40"	"Female"	"F"	26559
+	"2009"	"2009"	"Oklahoma"	"40"	"Male"	"M"	27994
+"Total"	"2009"	"2009"	"Oklahoma"	"40"			54553
+	"2009"	"2009"	"Oregon"	"41"	"Female"	"F"	22921
+	"2009"	"2009"	"Oregon"	"41"	"Male"	"M"	24211
+"Total"	"2009"	"2009"	"Oregon"	"41"			47132
+	"2009"	"2009"	"Pennsylvania"	"42"	"Female"	"F"	71667
+	"2009"	"2009"	"Pennsylvania"	"42"	"Male"	"M"	74767
+"Total"	"2009"	"2009"	"Pennsylvania"	"42"			146434
+	"2009"	"2009"	"Rhode Island"	"44"	"Female"	"F"	5603
+	"2009"	"2009"	"Rhode Island"	"44"	"Male"	"M"	5839
+"Total"	"2009"	"2009"	"Rhode Island"	"44"			11442
+	"2009"	"2009"	"South Carolina"	"45"	"Female"	"F"	30055
+	"2009"	"2009"	"South Carolina"	"45"	"Male"	"M"	30565
+"Total"	"2009"	"2009"	"South Carolina"	"45"			60620
+	"2009"	"2009"	"South Dakota"	"46"	"Female"	"F"	5862
+	"2009"	"2009"	"South Dakota"	"46"	"Male"	"M"	6072
+"Total"	"2009"	"2009"	"South Dakota"	"46"			11934
+	"2009"	"2009"	"Tennessee"	"47"	"Female"	"F"	40184
+	"2009"	"2009"	"Tennessee"	"47"	"Male"	"M"	42027
+"Total"	"2009"	"2009"	"Tennessee"	"47"			82211
+	"2009"	"2009"	"Texas"	"48"	"Female"	"F"	196917
+	"2009"	"2009"	"Texas"	"48"	"Male"	"M"	205060
+"Total"	"2009"	"2009"	"Texas"	"48"			401977
+	"2009"	"2009"	"Utah"	"49"	"Female"	"F"	26329
+	"2009"	"2009"	"Utah"	"49"	"Male"	"M"	27558
+"Total"	"2009"	"2009"	"Utah"	"49"			53887
+	"2009"	"2009"	"Vermont"	"50"	"Female"	"F"	2918
+	"2009"	"2009"	"Vermont"	"50"	"Male"	"M"	3192
+"Total"	"2009"	"2009"	"Vermont"	"50"			6110
+	"2009"	"2009"	"Virginia"	"51"	"Female"	"F"	51307
+	"2009"	"2009"	"Virginia"	"51"	"Male"	"M"	53752
+"Total"	"2009"	"2009"	"Virginia"	"51"			105059
+	"2009"	"2009"	"Washington"	"53"	"Female"	"F"	43577
+	"2009"	"2009"	"Washington"	"53"	"Male"	"M"	45736
+"Total"	"2009"	"2009"	"Washington"	"53"			89313
+	"2009"	"2009"	"West Virginia"	"54"	"Female"	"F"	10452
+	"2009"	"2009"	"West Virginia"	"54"	"Male"	"M"	10816
+"Total"	"2009"	"2009"	"West Virginia"	"54"			21268
+	"2009"	"2009"	"Wisconsin"	"55"	"Female"	"F"	34656
+	"2009"	"2009"	"Wisconsin"	"55"	"Male"	"M"	36187
+"Total"	"2009"	"2009"	"Wisconsin"	"55"			70843
+	"2009"	"2009"	"Wyoming"	"56"	"Female"	"F"	3785
+	"2009"	"2009"	"Wyoming"	"56"	"Male"	"M"	4096
+"Total"	"2009"	"2009"	"Wyoming"	"56"			7881
+"Total"	"2009"	"2009"					4130665
+	"2010"	"2010"	"Alabama"	"01"	"Female"	"F"	29227
+	"2010"	"2010"	"Alabama"	"01"	"Male"	"M"	30823
+"Total"	"2010"	"2010"	"Alabama"	"01"			60050
+	"2010"	"2010"	"Alaska"	"02"	"Female"	"F"	5616
+	"2010"	"2010"	"Alaska"	"02"	"Male"	"M"	5855
+"Total"	"2010"	"2010"	"Alaska"	"02"			11471
+	"2010"	"2010"	"Arizona"	"04"	"Female"	"F"	42936
+	"2010"	"2010"	"Arizona"	"04"	"Male"	"M"	44541
+"Total"	"2010"	"2010"	"Arizona"	"04"			87477
+	"2010"	"2010"	"Arkansas"	"05"	"Female"	"F"	18816
+	"2010"	"2010"	"Arkansas"	"05"	"Male"	"M"	19724
+"Total"	"2010"	"2010"	"Arkansas"	"05"			38540
+	"2010"	"2010"	"California"	"06"	"Female"	"F"	248983
+	"2010"	"2010"	"California"	"06"	"Male"	"M"	261215
+"Total"	"2010"	"2010"	"California"	"06"			510198
+	"2010"	"2010"	"Colorado"	"08"	"Female"	"F"	32270
+	"2010"	"2010"	"Colorado"	"08"	"Male"	"M"	34085
+"Total"	"2010"	"2010"	"Colorado"	"08"			66355
+	"2010"	"2010"	"Connecticut"	"09"	"Female"	"F"	18485
+	"2010"	"2010"	"Connecticut"	"09"	"Male"	"M"	19223
+"Total"	"2010"	"2010"	"Connecticut"	"09"			37708
+	"2010"	"2010"	"Delaware"	"10"	"Female"	"F"	5564
+	"2010"	"2010"	"Delaware"	"10"	"Male"	"M"	5800
+"Total"	"2010"	"2010"	"Delaware"	"10"			11364
+	"2010"	"2010"	"District of Columbia"	"11"	"Female"	"F"	4463
+	"2010"	"2010"	"District of Columbia"	"11"	"Male"	"M"	4702
+"Total"	"2010"	"2010"	"District of Columbia"	"11"			9165
+	"2010"	"2010"	"Florida"	"12"	"Female"	"F"	104794
+	"2010"	"2010"	"Florida"	"12"	"Male"	"M"	109796
+"Total"	"2010"	"2010"	"Florida"	"12"			214590
+	"2010"	"2010"	"Georgia"	"13"	"Female"	"F"	65438
+	"2010"	"2010"	"Georgia"	"13"	"Male"	"M"	68509
+"Total"	"2010"	"2010"	"Georgia"	"13"			133947
+	"2010"	"2010"	"Hawaii"	"15"	"Female"	"F"	9071
+	"2010"	"2010"	"Hawaii"	"15"	"Male"	"M"	9917
+"Total"	"2010"	"2010"	"Hawaii"	"15"			18988
+	"2010"	"2010"	"Idaho"	"16"	"Female"	"F"	11319
+	"2010"	"2010"	"Idaho"	"16"	"Male"	"M"	11879
+"Total"	"2010"	"2010"	"Idaho"	"16"			23198
+	"2010"	"2010"	"Illinois"	"17"	"Female"	"F"	80298
+	"2010"	"2010"	"Illinois"	"17"	"Male"	"M"	84902
+"Total"	"2010"	"2010"	"Illinois"	"17"			165200
+	"2010"	"2010"	"Indiana"	"18"	"Female"	"F"	40829
+	"2010"	"2010"	"Indiana"	"18"	"Male"	"M"	43111
+"Total"	"2010"	"2010"	"Indiana"	"18"			83940
+	"2010"	"2010"	"Iowa"	"19"	"Female"	"F"	19066
+	"2010"	"2010"	"Iowa"	"19"	"Male"	"M"	19653
+"Total"	"2010"	"2010"	"Iowa"	"19"			38719
+	"2010"	"2010"	"Kansas"	"20"	"Female"	"F"	19887
+	"2010"	"2010"	"Kansas"	"20"	"Male"	"M"	20762
+"Total"	"2010"	"2010"	"Kansas"	"20"			40649
+	"2010"	"2010"	"Kentucky"	"21"	"Female"	"F"	27038
+	"2010"	"2010"	"Kentucky"	"21"	"Male"	"M"	28746
+"Total"	"2010"	"2010"	"Kentucky"	"21"			55784
+	"2010"	"2010"	"Louisiana"	"22"	"Female"	"F"	30565
+	"2010"	"2010"	"Louisiana"	"22"	"Male"	"M"	31814
+"Total"	"2010"	"2010"	"Louisiana"	"22"			62379
+	"2010"	"2010"	"Maine"	"23"	"Female"	"F"	6328
+	"2010"	"2010"	"Maine"	"23"	"Male"	"M"	6642
+"Total"	"2010"	"2010"	"Maine"	"23"			12970
+	"2010"	"2010"	"Maryland"	"24"	"Female"	"F"	36203
+	"2010"	"2010"	"Maryland"	"24"	"Male"	"M"	37598
+"Total"	"2010"	"2010"	"Maryland"	"24"			73801
+	"2010"	"2010"	"Massachusetts"	"25"	"Female"	"F"	35559
+	"2010"	"2010"	"Massachusetts"	"25"	"Male"	"M"	37306
+"Total"	"2010"	"2010"	"Massachusetts"	"25"			72865
+	"2010"	"2010"	"Michigan"	"26"	"Female"	"F"	55967
+	"2010"	"2010"	"Michigan"	"26"	"Male"	"M"	58564
+"Total"	"2010"	"2010"	"Michigan"	"26"			114531
+	"2010"	"2010"	"Minnesota"	"27"	"Female"	"F"	33540
+	"2010"	"2010"	"Minnesota"	"27"	"Male"	"M"	35070
+"Total"	"2010"	"2010"	"Minnesota"	"27"			68610
+	"2010"	"2010"	"Mississippi"	"28"	"Female"	"F"	19643
+	"2010"	"2010"	"Mississippi"	"28"	"Male"	"M"	20393
+"Total"	"2010"	"2010"	"Mississippi"	"28"			40036
+	"2010"	"2010"	"Missouri"	"29"	"Female"	"F"	37278
+	"2010"	"2010"	"Missouri"	"29"	"Male"	"M"	39481
+"Total"	"2010"	"2010"	"Missouri"	"29"			76759
+	"2010"	"2010"	"Montana"	"30"	"Female"	"F"	5933
+	"2010"	"2010"	"Montana"	"30"	"Male"	"M"	6127
+"Total"	"2010"	"2010"	"Montana"	"30"			12060
+	"2010"	"2010"	"Nebraska"	"31"	"Female"	"F"	12703
+	"2010"	"2010"	"Nebraska"	"31"	"Male"	"M"	13215
+"Total"	"2010"	"2010"	"Nebraska"	"31"			25918
+	"2010"	"2010"	"Nevada"	"32"	"Female"	"F"	17661
+	"2010"	"2010"	"Nevada"	"32"	"Male"	"M"	18273
+"Total"	"2010"	"2010"	"Nevada"	"32"			35934
+	"2010"	"2010"	"New Hampshire"	"33"	"Female"	"F"	6285
+	"2010"	"2010"	"New Hampshire"	"33"	"Male"	"M"	6589
+"Total"	"2010"	"2010"	"New Hampshire"	"33"			12874
+	"2010"	"2010"	"New Jersey"	"34"	"Female"	"F"	52354
+	"2010"	"2010"	"New Jersey"	"34"	"Male"	"M"	54568
+"Total"	"2010"	"2010"	"New Jersey"	"34"			106922
+	"2010"	"2010"	"New Mexico"	"35"	"Female"	"F"	13614
+	"2010"	"2010"	"New Mexico"	"35"	"Male"	"M"	14236
+"Total"	"2010"	"2010"	"New Mexico"	"35"			27850
+	"2010"	"2010"	"New York"	"36"	"Female"	"F"	119023
+	"2010"	"2010"	"New York"	"36"	"Male"	"M"	125352
+"Total"	"2010"	"2010"	"New York"	"36"			244375
+	"2010"	"2010"	"North Carolina"	"37"	"Female"	"F"	59842
+	"2010"	"2010"	"North Carolina"	"37"	"Male"	"M"	62508
+"Total"	"2010"	"2010"	"North Carolina"	"37"			122350
+	"2010"	"2010"	"North Dakota"	"38"	"Female"	"F"	4465
+	"2010"	"2010"	"North Dakota"	"38"	"Male"	"M"	4639
+"Total"	"2010"	"2010"	"North Dakota"	"38"			9104
+	"2010"	"2010"	"Ohio"	"39"	"Female"	"F"	67624
+	"2010"	"2010"	"Ohio"	"39"	"Male"	"M"	71504
+"Total"	"2010"	"2010"	"Ohio"	"39"			139128
+	"2010"	"2010"	"Oklahoma"	"40"	"Female"	"F"	26152
+	"2010"	"2010"	"Oklahoma"	"40"	"Male"	"M"	27086
+"Total"	"2010"	"2010"	"Oklahoma"	"40"			53238
+	"2010"	"2010"	"Oregon"	"41"	"Female"	"F"	22215
+	"2010"	"2010"	"Oregon"	"41"	"Male"	"M"	23325
+"Total"	"2010"	"2010"	"Oregon"	"41"			45540
+	"2010"	"2010"	"Pennsylvania"	"42"	"Female"	"F"	69889
+	"2010"	"2010"	"Pennsylvania"	"42"	"Male"	"M"	73432
+"Total"	"2010"	"2010"	"Pennsylvania"	"42"			143321
+	"2010"	"2010"	"Rhode Island"	"44"	"Female"	"F"	5411
+	"2010"	"2010"	"Rhode Island"	"44"	"Male"	"M"	5766
+"Total"	"2010"	"2010"	"Rhode Island"	"44"			11177
+	"2010"	"2010"	"South Carolina"	"45"	"Female"	"F"	28682
+	"2010"	"2010"	"South Carolina"	"45"	"Male"	"M"	29660
+"Total"	"2010"	"2010"	"South Carolina"	"45"			58342
+	"2010"	"2010"	"South Dakota"	"46"	"Female"	"F"	5782
+	"2010"	"2010"	"South Dakota"	"46"	"Male"	"M"	6029
+"Total"	"2010"	"2010"	"South Dakota"	"46"			11811
+	"2010"	"2010"	"Tennessee"	"47"	"Female"	"F"	38519
+	"2010"	"2010"	"Tennessee"	"47"	"Male"	"M"	40976
+"Total"	"2010"	"2010"	"Tennessee"	"47"			79495
+	"2010"	"2010"	"Texas"	"48"	"Female"	"F"	189039
+	"2010"	"2010"	"Texas"	"48"	"Male"	"M"	197079
+"Total"	"2010"	"2010"	"Texas"	"48"			386118
+	"2010"	"2010"	"Utah"	"49"	"Female"	"F"	25374
+	"2010"	"2010"	"Utah"	"49"	"Male"	"M"	26884
+"Total"	"2010"	"2010"	"Utah"	"49"			52258
+	"2010"	"2010"	"Vermont"	"50"	"Female"	"F"	2956
+	"2010"	"2010"	"Vermont"	"50"	"Male"	"M"	3267
+"Total"	"2010"	"2010"	"Vermont"	"50"			6223
+	"2010"	"2010"	"Virginia"	"51"	"Female"	"F"	50137
+	"2010"	"2010"	"Virginia"	"51"	"Male"	"M"	52865
+"Total"	"2010"	"2010"	"Virginia"	"51"			103002
+	"2010"	"2010"	"Washington"	"53"	"Female"	"F"	42266
+	"2010"	"2010"	"Washington"	"53"	"Male"	"M"	44273
+"Total"	"2010"	"2010"	"Washington"	"53"			86539
+	"2010"	"2010"	"West Virginia"	"54"	"Female"	"F"	10173
+	"2010"	"2010"	"West Virginia"	"54"	"Male"	"M"	10297
+"Total"	"2010"	"2010"	"West Virginia"	"54"			20470
+	"2010"	"2010"	"Wisconsin"	"55"	"Female"	"F"	33411
+	"2010"	"2010"	"Wisconsin"	"55"	"Male"	"M"	35076
+"Total"	"2010"	"2010"	"Wisconsin"	"55"			68487
+	"2010"	"2010"	"Wyoming"	"56"	"Female"	"F"	3758
+	"2010"	"2010"	"Wyoming"	"56"	"Male"	"M"	3798
+"Total"	"2010"	"2010"	"Wyoming"	"56"			7556
+"Total"	"2010"	"2010"					3999386
+	"2011"	"2011"	"Alabama"	"01"	"Female"	"F"	28897
+	"2011"	"2011"	"Alabama"	"01"	"Male"	"M"	30457
+"Total"	"2011"	"2011"	"Alabama"	"01"			59354
+	"2011"	"2011"	"Alaska"	"02"	"Female"	"F"	5578
+	"2011"	"2011"	"Alaska"	"02"	"Male"	"M"	5878
+"Total"	"2011"	"2011"	"Alaska"	"02"			11456
+	"2011"	"2011"	"Arizona"	"04"	"Female"	"F"	41739
+	"2011"	"2011"	"Arizona"	"04"	"Male"	"M"	43804
+"Total"	"2011"	"2011"	"Arizona"	"04"			85543
+	"2011"	"2011"	"Arkansas"	"05"	"Female"	"F"	18929
+	"2011"	"2011"	"Arkansas"	"05"	"Male"	"M"	19786
+"Total"	"2011"	"2011"	"Arkansas"	"05"			38715
+	"2011"	"2011"	"California"	"06"	"Female"	"F"	244892
+	"2011"	"2011"	"California"	"06"	"Male"	"M"	257228
+"Total"	"2011"	"2011"	"California"	"06"			502120
+	"2011"	"2011"	"Colorado"	"08"	"Female"	"F"	31625
+	"2011"	"2011"	"Colorado"	"08"	"Male"	"M"	33430
+"Total"	"2011"	"2011"	"Colorado"	"08"			65055
+	"2011"	"2011"	"Connecticut"	"09"	"Female"	"F"	18178
+	"2011"	"2011"	"Connecticut"	"09"	"Male"	"M"	19103
+"Total"	"2011"	"2011"	"Connecticut"	"09"			37281
+	"2011"	"2011"	"Delaware"	"10"	"Female"	"F"	5522
+	"2011"	"2011"	"Delaware"	"10"	"Male"	"M"	5735
+"Total"	"2011"	"2011"	"Delaware"	"10"			11257
+	"2011"	"2011"	"District of Columbia"	"11"	"Female"	"F"	4505
+	"2011"	"2011"	"District of Columbia"	"11"	"Male"	"M"	4790
+"Total"	"2011"	"2011"	"District of Columbia"	"11"			9295
+	"2011"	"2011"	"Florida"	"12"	"Female"	"F"	104057
+	"2011"	"2011"	"Florida"	"12"	"Male"	"M"	109357
+"Total"	"2011"	"2011"	"Florida"	"12"			213414
+	"2011"	"2011"	"Georgia"	"13"	"Female"	"F"	64897
+	"2011"	"2011"	"Georgia"	"13"	"Male"	"M"	67512
+"Total"	"2011"	"2011"	"Georgia"	"13"			132409
+	"2011"	"2011"	"Hawaii"	"15"	"Female"	"F"	9204
+	"2011"	"2011"	"Hawaii"	"15"	"Male"	"M"	9752
+"Total"	"2011"	"2011"	"Hawaii"	"15"			18956
+	"2011"	"2011"	"Idaho"	"16"	"Female"	"F"	10809
+	"2011"	"2011"	"Idaho"	"16"	"Male"	"M"	11496
+"Total"	"2011"	"2011"	"Idaho"	"16"			22305
+	"2011"	"2011"	"Illinois"	"17"	"Female"	"F"	78838
+	"2011"	"2011"	"Illinois"	"17"	"Male"	"M"	82474
+"Total"	"2011"	"2011"	"Illinois"	"17"			161312
+	"2011"	"2011"	"Indiana"	"18"	"Female"	"F"	40809
+	"2011"	"2011"	"Indiana"	"18"	"Male"	"M"	42892
+"Total"	"2011"	"2011"	"Indiana"	"18"			83701
+	"2011"	"2011"	"Iowa"	"19"	"Female"	"F"	18685
+	"2011"	"2011"	"Iowa"	"19"	"Male"	"M"	19529
+"Total"	"2011"	"2011"	"Iowa"	"19"			38214
+	"2011"	"2011"	"Kansas"	"20"	"Female"	"F"	19257
+	"2011"	"2011"	"Kansas"	"20"	"Male"	"M"	20385
+"Total"	"2011"	"2011"	"Kansas"	"20"			39642
+	"2011"	"2011"	"Kentucky"	"21"	"Female"	"F"	27072
+	"2011"	"2011"	"Kentucky"	"21"	"Male"	"M"	28298
+"Total"	"2011"	"2011"	"Kentucky"	"21"			55370
+	"2011"	"2011"	"Louisiana"	"22"	"Female"	"F"	30250
+	"2011"	"2011"	"Louisiana"	"22"	"Male"	"M"	31638
+"Total"	"2011"	"2011"	"Louisiana"	"22"			61888
+	"2011"	"2011"	"Maine"	"23"	"Female"	"F"	6168
+	"2011"	"2011"	"Maine"	"23"	"Male"	"M"	6536
+"Total"	"2011"	"2011"	"Maine"	"23"			12704
+	"2011"	"2011"	"Maryland"	"24"	"Female"	"F"	35701
+	"2011"	"2011"	"Maryland"	"24"	"Male"	"M"	37392
+"Total"	"2011"	"2011"	"Maryland"	"24"			73093
+	"2011"	"2011"	"Massachusetts"	"25"	"Female"	"F"	35657
+	"2011"	"2011"	"Massachusetts"	"25"	"Male"	"M"	37509
+"Total"	"2011"	"2011"	"Massachusetts"	"25"			73166
+	"2011"	"2011"	"Michigan"	"26"	"Female"	"F"	55368
+	"2011"	"2011"	"Michigan"	"26"	"Male"	"M"	58640
+"Total"	"2011"	"2011"	"Michigan"	"26"			114008
+	"2011"	"2011"	"Minnesota"	"27"	"Female"	"F"	33369
+	"2011"	"2011"	"Minnesota"	"27"	"Male"	"M"	35040
+"Total"	"2011"	"2011"	"Minnesota"	"27"			68409
+	"2011"	"2011"	"Mississippi"	"28"	"Female"	"F"	19641
+	"2011"	"2011"	"Mississippi"	"28"	"Male"	"M"	20219
+"Total"	"2011"	"2011"	"Mississippi"	"28"			39860
+	"2011"	"2011"	"Missouri"	"29"	"Female"	"F"	37018
+	"2011"	"2011"	"Missouri"	"29"	"Male"	"M"	39099
+"Total"	"2011"	"2011"	"Missouri"	"29"			76117
+	"2011"	"2011"	"Montana"	"30"	"Female"	"F"	5960
+	"2011"	"2011"	"Montana"	"30"	"Male"	"M"	6109
+"Total"	"2011"	"2011"	"Montana"	"30"			12069
+	"2011"	"2011"	"Nebraska"	"31"	"Female"	"F"	12635
+	"2011"	"2011"	"Nebraska"	"31"	"Male"	"M"	13085
+"Total"	"2011"	"2011"	"Nebraska"	"31"			25720
+	"2011"	"2011"	"Nevada"	"32"	"Female"	"F"	17076
+	"2011"	"2011"	"Nevada"	"32"	"Male"	"M"	18220
+"Total"	"2011"	"2011"	"Nevada"	"32"			35296
+	"2011"	"2011"	"New Hampshire"	"33"	"Female"	"F"	6253
+	"2011"	"2011"	"New Hampshire"	"33"	"Male"	"M"	6598
+"Total"	"2011"	"2011"	"New Hampshire"	"33"			12851
+	"2011"	"2011"	"New Jersey"	"34"	"Female"	"F"	51552
+	"2011"	"2011"	"New Jersey"	"34"	"Male"	"M"	54331
+"Total"	"2011"	"2011"	"New Jersey"	"34"			105883
+	"2011"	"2011"	"New Mexico"	"35"	"Female"	"F"	13584
+	"2011"	"2011"	"New Mexico"	"35"	"Male"	"M"	13705
+"Total"	"2011"	"2011"	"New Mexico"	"35"			27289
+	"2011"	"2011"	"New York"	"36"	"Female"	"F"	118153
+	"2011"	"2011"	"New York"	"36"	"Male"	"M"	123159
+"Total"	"2011"	"2011"	"New York"	"36"			241312
+	"2011"	"2011"	"North Carolina"	"37"	"Female"	"F"	58874
+	"2011"	"2011"	"North Carolina"	"37"	"Male"	"M"	61515
+"Total"	"2011"	"2011"	"North Carolina"	"37"			120389
+	"2011"	"2011"	"North Dakota"	"38"	"Female"	"F"	4639
+	"2011"	"2011"	"North Dakota"	"38"	"Male"	"M"	4888
+"Total"	"2011"	"2011"	"North Dakota"	"38"			9527
+	"2011"	"2011"	"Ohio"	"39"	"Female"	"F"	67117
+	"2011"	"2011"	"Ohio"	"39"	"Male"	"M"	70801
+"Total"	"2011"	"2011"	"Ohio"	"39"			137918
+	"2011"	"2011"	"Oklahoma"	"40"	"Female"	"F"	25550
+	"2011"	"2011"	"Oklahoma"	"40"	"Male"	"M"	26722
+"Total"	"2011"	"2011"	"Oklahoma"	"40"			52272
+	"2011"	"2011"	"Oregon"	"41"	"Female"	"F"	21947
+	"2011"	"2011"	"Oregon"	"41"	"Male"	"M"	23208
+"Total"	"2011"	"2011"	"Oregon"	"41"			45155
+	"2011"	"2011"	"Pennsylvania"	"42"	"Female"	"F"	69778
+	"2011"	"2011"	"Pennsylvania"	"42"	"Male"	"M"	73400
+"Total"	"2011"	"2011"	"Pennsylvania"	"42"			143178
+	"2011"	"2011"	"Rhode Island"	"44"	"Female"	"F"	5342
+	"2011"	"2011"	"Rhode Island"	"44"	"Male"	"M"	5618
+"Total"	"2011"	"2011"	"Rhode Island"	"44"			10960
+	"2011"	"2011"	"South Carolina"	"45"	"Female"	"F"	27966
+	"2011"	"2011"	"South Carolina"	"45"	"Male"	"M"	29427
+"Total"	"2011"	"2011"	"South Carolina"	"45"			57393
+	"2011"	"2011"	"South Dakota"	"46"	"Female"	"F"	5813
+	"2011"	"2011"	"South Dakota"	"46"	"Male"	"M"	6033
+"Total"	"2011"	"2011"	"South Dakota"	"46"			11846
+	"2011"	"2011"	"Tennessee"	"47"	"Female"	"F"	39077
+	"2011"	"2011"	"Tennessee"	"47"	"Male"	"M"	40511
+"Total"	"2011"	"2011"	"Tennessee"	"47"			79588
+	"2011"	"2011"	"Texas"	"48"	"Female"	"F"	184597
+	"2011"	"2011"	"Texas"	"48"	"Male"	"M"	192848
+"Total"	"2011"	"2011"	"Texas"	"48"			377445
+	"2011"	"2011"	"Utah"	"49"	"Female"	"F"	24932
+	"2011"	"2011"	"Utah"	"49"	"Male"	"M"	26291
+"Total"	"2011"	"2011"	"Utah"	"49"			51223
+	"2011"	"2011"	"Vermont"	"50"	"Female"	"F"	2956
+	"2011"	"2011"	"Vermont"	"50"	"Male"	"M"	3122
+"Total"	"2011"	"2011"	"Vermont"	"50"			6078
+	"2011"	"2011"	"Virginia"	"51"	"Female"	"F"	50062
+	"2011"	"2011"	"Virginia"	"51"	"Male"	"M"	52590
+"Total"	"2011"	"2011"	"Virginia"	"51"			102652
+	"2011"	"2011"	"Washington"	"53"	"Female"	"F"	42344
+	"2011"	"2011"	"Washington"	"53"	"Male"	"M"	44632
+"Total"	"2011"	"2011"	"Washington"	"53"			86976
+	"2011"	"2011"	"West Virginia"	"54"	"Female"	"F"	9965
+	"2011"	"2011"	"West Virginia"	"54"	"Male"	"M"	10752
+"Total"	"2011"	"2011"	"West Virginia"	"54"			20717
+	"2011"	"2011"	"Wisconsin"	"55"	"Female"	"F"	33111
+	"2011"	"2011"	"Wisconsin"	"55"	"Male"	"M"	34699
+"Total"	"2011"	"2011"	"Wisconsin"	"55"			67810
+	"2011"	"2011"	"Wyoming"	"56"	"Female"	"F"	3590
+	"2011"	"2011"	"Wyoming"	"56"	"Male"	"M"	3809
+"Total"	"2011"	"2011"	"Wyoming"	"56"			7399
+"Total"	"2011"	"2011"					3953590
+	"2012"	"2012"	"Alabama"	"01"	"Female"	"F"	28772
+	"2012"	"2012"	"Alabama"	"01"	"Male"	"M"	29676
+"Total"	"2012"	"2012"	"Alabama"	"01"			58448
+	"2012"	"2012"	"Alaska"	"02"	"Female"	"F"	5477
+	"2012"	"2012"	"Alaska"	"02"	"Male"	"M"	5710
+"Total"	"2012"	"2012"	"Alaska"	"02"			11187
+	"2012"	"2012"	"Arizona"	"04"	"Female"	"F"	42166
+	"2012"	"2012"	"Arizona"	"04"	"Male"	"M"	44275
+"Total"	"2012"	"2012"	"Arizona"	"04"			86441
+	"2012"	"2012"	"Arkansas"	"05"	"Female"	"F"	18674
+	"2012"	"2012"	"Arkansas"	"05"	"Male"	"M"	19673
+"Total"	"2012"	"2012"	"Arkansas"	"05"			38347
+	"2012"	"2012"	"California"	"06"	"Female"	"F"	246316
+	"2012"	"2012"	"California"	"06"	"Male"	"M"	257439
+"Total"	"2012"	"2012"	"California"	"06"			503755
+	"2012"	"2012"	"Colorado"	"08"	"Female"	"F"	31646
+	"2012"	"2012"	"Colorado"	"08"	"Male"	"M"	33541
+"Total"	"2012"	"2012"	"Colorado"	"08"			65187
+	"2012"	"2012"	"Connecticut"	"09"	"Female"	"F"	17920
+	"2012"	"2012"	"Connecticut"	"09"	"Male"	"M"	18619
+"Total"	"2012"	"2012"	"Connecticut"	"09"			36539
+	"2012"	"2012"	"Delaware"	"10"	"Female"	"F"	5430
+	"2012"	"2012"	"Delaware"	"10"	"Male"	"M"	5593
+"Total"	"2012"	"2012"	"Delaware"	"10"			11023
+	"2012"	"2012"	"District of Columbia"	"11"	"Female"	"F"	4577
+	"2012"	"2012"	"District of Columbia"	"11"	"Male"	"M"	4822
+"Total"	"2012"	"2012"	"District of Columbia"	"11"			9399
+	"2012"	"2012"	"Florida"	"12"	"Female"	"F"	104034
+	"2012"	"2012"	"Florida"	"12"	"Male"	"M"	109114
+"Total"	"2012"	"2012"	"Florida"	"12"			213148
+	"2012"	"2012"	"Georgia"	"13"	"Female"	"F"	64172
+	"2012"	"2012"	"Georgia"	"13"	"Male"	"M"	66108
+"Total"	"2012"	"2012"	"Georgia"	"13"			130280
+	"2012"	"2012"	"Hawaii"	"15"	"Female"	"F"	9300
+	"2012"	"2012"	"Hawaii"	"15"	"Male"	"M"	9680
+"Total"	"2012"	"2012"	"Hawaii"	"15"			18980
+	"2012"	"2012"	"Idaho"	"16"	"Female"	"F"	11295
+	"2012"	"2012"	"Idaho"	"16"	"Male"	"M"	11668
+"Total"	"2012"	"2012"	"Idaho"	"16"			22963
+	"2012"	"2012"	"Illinois"	"17"	"Female"	"F"	77887
+	"2012"	"2012"	"Illinois"	"17"	"Male"	"M"	81273
+"Total"	"2012"	"2012"	"Illinois"	"17"			159160
+	"2012"	"2012"	"Indiana"	"18"	"Female"	"F"	40618
+	"2012"	"2012"	"Indiana"	"18"	"Male"	"M"	42609
+"Total"	"2012"	"2012"	"Indiana"	"18"			83227
+	"2012"	"2012"	"Iowa"	"19"	"Female"	"F"	18871
+	"2012"	"2012"	"Iowa"	"19"	"Male"	"M"	19831
+"Total"	"2012"	"2012"	"Iowa"	"19"			38702
+	"2012"	"2012"	"Kansas"	"20"	"Female"	"F"	19726
+	"2012"	"2012"	"Kansas"	"20"	"Male"	"M"	20615
+"Total"	"2012"	"2012"	"Kansas"	"20"			40341
+	"2012"	"2012"	"Kentucky"	"21"	"Female"	"F"	27129
+	"2012"	"2012"	"Kentucky"	"21"	"Male"	"M"	28629
+"Total"	"2012"	"2012"	"Kentucky"	"21"			55758
+	"2012"	"2012"	"Louisiana"	"22"	"Female"	"F"	30458
+	"2012"	"2012"	"Louisiana"	"22"	"Male"	"M"	32184
+"Total"	"2012"	"2012"	"Louisiana"	"22"			62642
+	"2012"	"2012"	"Maine"	"23"	"Female"	"F"	6210
+	"2012"	"2012"	"Maine"	"23"	"Male"	"M"	6588
+"Total"	"2012"	"2012"	"Maine"	"23"			12798
+	"2012"	"2012"	"Maryland"	"24"	"Female"	"F"	35817
+	"2012"	"2012"	"Maryland"	"24"	"Male"	"M"	37066
+"Total"	"2012"	"2012"	"Maryland"	"24"			72883
+	"2012"	"2012"	"Massachusetts"	"25"	"Female"	"F"	35366
+	"2012"	"2012"	"Massachusetts"	"25"	"Male"	"M"	37073
+"Total"	"2012"	"2012"	"Massachusetts"	"25"			72439
+	"2012"	"2012"	"Michigan"	"26"	"Female"	"F"	55162
+	"2012"	"2012"	"Michigan"	"26"	"Male"	"M"	57929
+"Total"	"2012"	"2012"	"Michigan"	"26"			113091
+	"2012"	"2012"	"Minnesota"	"27"	"Female"	"F"	33588
+	"2012"	"2012"	"Minnesota"	"27"	"Male"	"M"	35184
+"Total"	"2012"	"2012"	"Minnesota"	"27"			68772
+	"2012"	"2012"	"Mississippi"	"28"	"Female"	"F"	19092
+	"2012"	"2012"	"Mississippi"	"28"	"Male"	"M"	19577
+"Total"	"2012"	"2012"	"Mississippi"	"28"			38669
+	"2012"	"2012"	"Missouri"	"29"	"Female"	"F"	36788
+	"2012"	"2012"	"Missouri"	"29"	"Male"	"M"	38658
+"Total"	"2012"	"2012"	"Missouri"	"29"			75446
+	"2012"	"2012"	"Montana"	"30"	"Female"	"F"	5924
+	"2012"	"2012"	"Montana"	"30"	"Male"	"M"	6194
+"Total"	"2012"	"2012"	"Montana"	"30"			12118
+	"2012"	"2012"	"Nebraska"	"31"	"Female"	"F"	12639
+	"2012"	"2012"	"Nebraska"	"31"	"Male"	"M"	13303
+"Total"	"2012"	"2012"	"Nebraska"	"31"			25942
+	"2012"	"2012"	"Nevada"	"32"	"Female"	"F"	16891
+	"2012"	"2012"	"Nevada"	"32"	"Male"	"M"	18020
+"Total"	"2012"	"2012"	"Nevada"	"32"			34911
+	"2012"	"2012"	"New Hampshire"	"33"	"Female"	"F"	6070
+	"2012"	"2012"	"New Hampshire"	"33"	"Male"	"M"	6282
+"Total"	"2012"	"2012"	"New Hampshire"	"33"			12352
+	"2012"	"2012"	"New Jersey"	"34"	"Female"	"F"	51138
+	"2012"	"2012"	"New Jersey"	"34"	"Male"	"M"	53092
+"Total"	"2012"	"2012"	"New Jersey"	"34"			104230
+	"2012"	"2012"	"New Mexico"	"35"	"Female"	"F"	13214
+	"2012"	"2012"	"New Mexico"	"35"	"Male"	"M"	13854
+"Total"	"2012"	"2012"	"New Mexico"	"35"			27068
+	"2012"	"2012"	"New York"	"36"	"Female"	"F"	117491
+	"2012"	"2012"	"New York"	"36"	"Male"	"M"	123425
+"Total"	"2012"	"2012"	"New York"	"36"			240916
+	"2012"	"2012"	"North Carolina"	"37"	"Female"	"F"	58665
+	"2012"	"2012"	"North Carolina"	"37"	"Male"	"M"	61166
+"Total"	"2012"	"2012"	"North Carolina"	"37"			119831
+	"2012"	"2012"	"North Dakota"	"38"	"Female"	"F"	4923
+	"2012"	"2012"	"North Dakota"	"38"	"Male"	"M"	5183
+"Total"	"2012"	"2012"	"North Dakota"	"38"			10106
+	"2012"	"2012"	"Ohio"	"39"	"Female"	"F"	67469
+	"2012"	"2012"	"Ohio"	"39"	"Male"	"M"	71014
+"Total"	"2012"	"2012"	"Ohio"	"39"			138483
+	"2012"	"2012"	"Oklahoma"	"40"	"Female"	"F"	25828
+	"2012"	"2012"	"Oklahoma"	"40"	"Male"	"M"	26923
+"Total"	"2012"	"2012"	"Oklahoma"	"40"			52751
+	"2012"	"2012"	"Oregon"	"41"	"Female"	"F"	21941
+	"2012"	"2012"	"Oregon"	"41"	"Male"	"M"	23126
+"Total"	"2012"	"2012"	"Oregon"	"41"			45067
+	"2012"	"2012"	"Pennsylvania"	"42"	"Female"	"F"	69661
+	"2012"	"2012"	"Pennsylvania"	"42"	"Male"	"M"	72853
+"Total"	"2012"	"2012"	"Pennsylvania"	"42"			142514
+	"2012"	"2012"	"Rhode Island"	"44"	"Female"	"F"	5385
+	"2012"	"2012"	"Rhode Island"	"44"	"Male"	"M"	5541
+"Total"	"2012"	"2012"	"Rhode Island"	"44"			10926
+	"2012"	"2012"	"South Carolina"	"45"	"Female"	"F"	28107
+	"2012"	"2012"	"South Carolina"	"45"	"Male"	"M"	29048
+"Total"	"2012"	"2012"	"South Carolina"	"45"			57155
+	"2012"	"2012"	"South Dakota"	"46"	"Female"	"F"	5847
+	"2012"	"2012"	"South Dakota"	"46"	"Male"	"M"	6257
+"Total"	"2012"	"2012"	"South Dakota"	"46"			12104
+	"2012"	"2012"	"Tennessee"	"47"	"Female"	"F"	39088
+	"2012"	"2012"	"Tennessee"	"47"	"Male"	"M"	41283
+"Total"	"2012"	"2012"	"Tennessee"	"47"			80371
+	"2012"	"2012"	"Texas"	"48"	"Female"	"F"	187054
+	"2012"	"2012"	"Texas"	"48"	"Male"	"M"	195673
+"Total"	"2012"	"2012"	"Texas"	"48"			382727
+	"2012"	"2012"	"Utah"	"49"	"Female"	"F"	24957
+	"2012"	"2012"	"Utah"	"49"	"Male"	"M"	26508
+"Total"	"2012"	"2012"	"Utah"	"49"			51465
+	"2012"	"2012"	"Vermont"	"50"	"Female"	"F"	2893
+	"2012"	"2012"	"Vermont"	"50"	"Male"	"M"	3116
+"Total"	"2012"	"2012"	"Vermont"	"50"			6009
+	"2012"	"2012"	"Virginia"	"51"	"Female"	"F"	50295
+	"2012"	"2012"	"Virginia"	"51"	"Male"	"M"	52718
+"Total"	"2012"	"2012"	"Virginia"	"51"			103013
+	"2012"	"2012"	"Washington"	"53"	"Female"	"F"	42745
+	"2012"	"2012"	"Washington"	"53"	"Male"	"M"	44718
+"Total"	"2012"	"2012"	"Washington"	"53"			87463
+	"2012"	"2012"	"West Virginia"	"54"	"Female"	"F"	10302
+	"2012"	"2012"	"West Virginia"	"54"	"Male"	"M"	10525
+"Total"	"2012"	"2012"	"West Virginia"	"54"			20827
+	"2012"	"2012"	"Wisconsin"	"55"	"Female"	"F"	32782
+	"2012"	"2012"	"Wisconsin"	"55"	"Male"	"M"	34513
+"Total"	"2012"	"2012"	"Wisconsin"	"55"			67295
+	"2012"	"2012"	"Wyoming"	"56"	"Female"	"F"	3607
+	"2012"	"2012"	"Wyoming"	"56"	"Male"	"M"	3965
+"Total"	"2012"	"2012"	"Wyoming"	"56"			7572
+"Total"	"2012"	"2012"					3952841
+	"2013"	"2013"	"Alabama"	"01"	"Female"	"F"	28535
+	"2013"	"2013"	"Alabama"	"01"	"Male"	"M"	29632
+"Total"	"2013"	"2013"	"Alabama"	"01"			58167
+	"2013"	"2013"	"Alaska"	"02"	"Female"	"F"	5590
+	"2013"	"2013"	"Alaska"	"02"	"Male"	"M"	5856
+"Total"	"2013"	"2013"	"Alaska"	"02"			11446
+	"2013"	"2013"	"Arizona"	"04"	"Female"	"F"	41633
+	"2013"	"2013"	"Arizona"	"04"	"Male"	"M"	43967
+"Total"	"2013"	"2013"	"Arizona"	"04"			85600
+	"2013"	"2013"	"Arkansas"	"05"	"Female"	"F"	18452
+	"2013"	"2013"	"Arkansas"	"05"	"Male"	"M"	19380
+"Total"	"2013"	"2013"	"Arkansas"	"05"			37832
+	"2013"	"2013"	"California"	"06"	"Female"	"F"	241210
+	"2013"	"2013"	"California"	"06"	"Male"	"M"	253495
+"Total"	"2013"	"2013"	"California"	"06"			494705
+	"2013"	"2013"	"Colorado"	"08"	"Female"	"F"	31875
+	"2013"	"2013"	"Colorado"	"08"	"Male"	"M"	33132
+"Total"	"2013"	"2013"	"Colorado"	"08"			65007
+	"2013"	"2013"	"Connecticut"	"09"	"Female"	"F"	17625
+	"2013"	"2013"	"Connecticut"	"09"	"Male"	"M"	18460
+"Total"	"2013"	"2013"	"Connecticut"	"09"			36085
+	"2013"	"2013"	"Delaware"	"10"	"Female"	"F"	5293
+	"2013"	"2013"	"Delaware"	"10"	"Male"	"M"	5538
+"Total"	"2013"	"2013"	"Delaware"	"10"			10831
+	"2013"	"2013"	"District of Columbia"	"11"	"Female"	"F"	4515
+	"2013"	"2013"	"District of Columbia"	"11"	"Male"	"M"	4773
+"Total"	"2013"	"2013"	"District of Columbia"	"11"			9288
+	"2013"	"2013"	"Florida"	"12"	"Female"	"F"	105098
+	"2013"	"2013"	"Florida"	"12"	"Male"	"M"	110309
+"Total"	"2013"	"2013"	"Florida"	"12"			215407
+	"2013"	"2013"	"Georgia"	"13"	"Female"	"F"	62990
+	"2013"	"2013"	"Georgia"	"13"	"Male"	"M"	65758
+"Total"	"2013"	"2013"	"Georgia"	"13"			128748
+	"2013"	"2013"	"Hawaii"	"15"	"Female"	"F"	9088
+	"2013"	"2013"	"Hawaii"	"15"	"Male"	"M"	9899
+"Total"	"2013"	"2013"	"Hawaii"	"15"			18987
+	"2013"	"2013"	"Idaho"	"16"	"Female"	"F"	11033
+	"2013"	"2013"	"Idaho"	"16"	"Male"	"M"	11350
+"Total"	"2013"	"2013"	"Idaho"	"16"			22383
+	"2013"	"2013"	"Illinois"	"17"	"Female"	"F"	76613
+	"2013"	"2013"	"Illinois"	"17"	"Male"	"M"	80318
+"Total"	"2013"	"2013"	"Illinois"	"17"			156931
+	"2013"	"2013"	"Indiana"	"18"	"Female"	"F"	40499
+	"2013"	"2013"	"Indiana"	"18"	"Male"	"M"	42603
+"Total"	"2013"	"2013"	"Indiana"	"18"			83102
+	"2013"	"2013"	"Iowa"	"19"	"Female"	"F"	19210
+	"2013"	"2013"	"Iowa"	"19"	"Male"	"M"	19884
+"Total"	"2013"	"2013"	"Iowa"	"19"			39094
+	"2013"	"2013"	"Kansas"	"20"	"Female"	"F"	19013
+	"2013"	"2013"	"Kansas"	"20"	"Male"	"M"	19826
+"Total"	"2013"	"2013"	"Kansas"	"20"			38839
+	"2013"	"2013"	"Kentucky"	"21"	"Female"	"F"	26882
+	"2013"	"2013"	"Kentucky"	"21"	"Male"	"M"	28804
+"Total"	"2013"	"2013"	"Kentucky"	"21"			55686
+	"2013"	"2013"	"Louisiana"	"22"	"Female"	"F"	30963
+	"2013"	"2013"	"Louisiana"	"22"	"Male"	"M"	32238
+"Total"	"2013"	"2013"	"Louisiana"	"22"			63201
+	"2013"	"2013"	"Maine"	"23"	"Female"	"F"	6143
+	"2013"	"2013"	"Maine"	"23"	"Male"	"M"	6633
+"Total"	"2013"	"2013"	"Maine"	"23"			12776
+	"2013"	"2013"	"Maryland"	"24"	"Female"	"F"	35027
+	"2013"	"2013"	"Maryland"	"24"	"Male"	"M"	36926
+"Total"	"2013"	"2013"	"Maryland"	"24"			71953
+	"2013"	"2013"	"Massachusetts"	"25"	"Female"	"F"	35193
+	"2013"	"2013"	"Massachusetts"	"25"	"Male"	"M"	36595
+"Total"	"2013"	"2013"	"Massachusetts"	"25"			71788
+	"2013"	"2013"	"Michigan"	"26"	"Female"	"F"	55516
+	"2013"	"2013"	"Michigan"	"26"	"Male"	"M"	57973
+"Total"	"2013"	"2013"	"Michigan"	"26"			113489
+	"2013"	"2013"	"Minnesota"	"27"	"Female"	"F"	33735
+	"2013"	"2013"	"Minnesota"	"27"	"Male"	"M"	35424
+"Total"	"2013"	"2013"	"Minnesota"	"27"			69159
+	"2013"	"2013"	"Mississippi"	"28"	"Female"	"F"	19112
+	"2013"	"2013"	"Mississippi"	"28"	"Male"	"M"	19522
+"Total"	"2013"	"2013"	"Mississippi"	"28"			38634
+	"2013"	"2013"	"Missouri"	"29"	"Female"	"F"	36902
+	"2013"	"2013"	"Missouri"	"29"	"Male"	"M"	38394
+"Total"	"2013"	"2013"	"Missouri"	"29"			75296
+	"2013"	"2013"	"Montana"	"30"	"Female"	"F"	6021
+	"2013"	"2013"	"Montana"	"30"	"Male"	"M"	6356
+"Total"	"2013"	"2013"	"Montana"	"30"			12377
+	"2013"	"2013"	"Nebraska"	"31"	"Female"	"F"	12715
+	"2013"	"2013"	"Nebraska"	"31"	"Male"	"M"	13380
+"Total"	"2013"	"2013"	"Nebraska"	"31"			26095
+	"2013"	"2013"	"Nevada"	"32"	"Female"	"F"	17046
+	"2013"	"2013"	"Nevada"	"32"	"Male"	"M"	17984
+"Total"	"2013"	"2013"	"Nevada"	"32"			35030
+	"2013"	"2013"	"New Hampshire"	"33"	"Female"	"F"	6030
+	"2013"	"2013"	"New Hampshire"	"33"	"Male"	"M"	6366
+"Total"	"2013"	"2013"	"New Hampshire"	"33"			12396
+	"2013"	"2013"	"New Jersey"	"34"	"Female"	"F"	50117
+	"2013"	"2013"	"New Jersey"	"34"	"Male"	"M"	52458
+"Total"	"2013"	"2013"	"New Jersey"	"34"			102575
+	"2013"	"2013"	"New Mexico"	"35"	"Female"	"F"	12865
+	"2013"	"2013"	"New Mexico"	"35"	"Male"	"M"	13489
+"Total"	"2013"	"2013"	"New Mexico"	"35"			26354
+	"2013"	"2013"	"New York"	"36"	"Female"	"F"	115703
+	"2013"	"2013"	"New York"	"36"	"Male"	"M"	121277
+"Total"	"2013"	"2013"	"New York"	"36"			236980
+	"2013"	"2013"	"North Carolina"	"37"	"Female"	"F"	58432
+	"2013"	"2013"	"North Carolina"	"37"	"Male"	"M"	60570
+"Total"	"2013"	"2013"	"North Carolina"	"37"			119002
+	"2013"	"2013"	"North Dakota"	"38"	"Female"	"F"	5258
+	"2013"	"2013"	"North Dakota"	"38"	"Male"	"M"	5341
+"Total"	"2013"	"2013"	"North Dakota"	"38"			10599
+	"2013"	"2013"	"Ohio"	"39"	"Female"	"F"	68161
+	"2013"	"2013"	"Ohio"	"39"	"Male"	"M"	70775
+"Total"	"2013"	"2013"	"Ohio"	"39"			138936
+	"2013"	"2013"	"Oklahoma"	"40"	"Female"	"F"	25697
+	"2013"	"2013"	"Oklahoma"	"40"	"Male"	"M"	27672
+"Total"	"2013"	"2013"	"Oklahoma"	"40"			53369
+	"2013"	"2013"	"Oregon"	"41"	"Female"	"F"	22111
+	"2013"	"2013"	"Oregon"	"41"	"Male"	"M"	23044
+"Total"	"2013"	"2013"	"Oregon"	"41"			45155
+	"2013"	"2013"	"Pennsylvania"	"42"	"Female"	"F"	68858
+	"2013"	"2013"	"Pennsylvania"	"42"	"Male"	"M"	72063
+"Total"	"2013"	"2013"	"Pennsylvania"	"42"			140921
+	"2013"	"2013"	"Rhode Island"	"44"	"Female"	"F"	5275
+	"2013"	"2013"	"Rhode Island"	"44"	"Male"	"M"	5534
+"Total"	"2013"	"2013"	"Rhode Island"	"44"			10809
+	"2013"	"2013"	"South Carolina"	"45"	"Female"	"F"	27543
+	"2013"	"2013"	"South Carolina"	"45"	"Male"	"M"	29252
+"Total"	"2013"	"2013"	"South Carolina"	"45"			56795
+	"2013"	"2013"	"South Dakota"	"46"	"Female"	"F"	6059
+	"2013"	"2013"	"South Dakota"	"46"	"Male"	"M"	6189
+"Total"	"2013"	"2013"	"South Dakota"	"46"			12248
+	"2013"	"2013"	"Tennessee"	"47"	"Female"	"F"	38982
+	"2013"	"2013"	"Tennessee"	"47"	"Male"	"M"	41010
+"Total"	"2013"	"2013"	"Tennessee"	"47"			79992
+	"2013"	"2013"	"Texas"	"48"	"Female"	"F"	189105
+	"2013"	"2013"	"Texas"	"48"	"Male"	"M"	198235
+"Total"	"2013"	"2013"	"Texas"	"48"			387340
+	"2013"	"2013"	"Utah"	"49"	"Female"	"F"	24694
+	"2013"	"2013"	"Utah"	"49"	"Male"	"M"	26263
+"Total"	"2013"	"2013"	"Utah"	"49"			50957
+	"2013"	"2013"	"Vermont"	"50"	"Female"	"F"	2832
+	"2013"	"2013"	"Vermont"	"50"	"Male"	"M"	3143
+"Total"	"2013"	"2013"	"Vermont"	"50"			5975
+	"2013"	"2013"	"Virginia"	"51"	"Female"	"F"	49711
+	"2013"	"2013"	"Virginia"	"51"	"Male"	"M"	52436
+"Total"	"2013"	"2013"	"Virginia"	"51"			102147
+	"2013"	"2013"	"Washington"	"53"	"Female"	"F"	41787
+	"2013"	"2013"	"Washington"	"53"	"Male"	"M"	44790
+"Total"	"2013"	"2013"	"Washington"	"53"			86577
+	"2013"	"2013"	"West Virginia"	"54"	"Female"	"F"	10218
+	"2013"	"2013"	"West Virginia"	"54"	"Male"	"M"	10607
+"Total"	"2013"	"2013"	"West Virginia"	"54"			20825
+	"2013"	"2013"	"Wisconsin"	"55"	"Female"	"F"	32564
+	"2013"	"2013"	"Wisconsin"	"55"	"Male"	"M"	34085
+"Total"	"2013"	"2013"	"Wisconsin"	"55"			66649
+	"2013"	"2013"	"Wyoming"	"56"	"Female"	"F"	3698
+	"2013"	"2013"	"Wyoming"	"56"	"Male"	"M"	3946
+"Total"	"2013"	"2013"	"Wyoming"	"56"			7644
+"Total"	"2013"	"2013"					3932181
+	"2014"	"2014"	"Alabama"	"01"	"Female"	"F"	29136
+	"2014"	"2014"	"Alabama"	"01"	"Male"	"M"	30286
+"Total"	"2014"	"2014"	"Alabama"	"01"			59422
+	"2014"	"2014"	"Alaska"	"02"	"Female"	"F"	5507
+	"2014"	"2014"	"Alaska"	"02"	"Male"	"M"	5885
+"Total"	"2014"	"2014"	"Alaska"	"02"			11392
+	"2014"	"2014"	"Arizona"	"04"	"Female"	"F"	42349
+	"2014"	"2014"	"Arizona"	"04"	"Male"	"M"	44538
+"Total"	"2014"	"2014"	"Arizona"	"04"			86887
+	"2014"	"2014"	"Arkansas"	"05"	"Female"	"F"	18764
+	"2014"	"2014"	"Arkansas"	"05"	"Male"	"M"	19747
+"Total"	"2014"	"2014"	"Arkansas"	"05"			38511
+	"2014"	"2014"	"California"	"06"	"Female"	"F"	245166
+	"2014"	"2014"	"California"	"06"	"Male"	"M"	257713
+"Total"	"2014"	"2014"	"California"	"06"			502879
+	"2014"	"2014"	"Colorado"	"08"	"Female"	"F"	32271
+	"2014"	"2014"	"Colorado"	"08"	"Male"	"M"	33559
+"Total"	"2014"	"2014"	"Colorado"	"08"			65830
+	"2014"	"2014"	"Connecticut"	"09"	"Female"	"F"	17635
+	"2014"	"2014"	"Connecticut"	"09"	"Male"	"M"	18650
+"Total"	"2014"	"2014"	"Connecticut"	"09"			36285
+	"2014"	"2014"	"Delaware"	"10"	"Female"	"F"	5380
+	"2014"	"2014"	"Delaware"	"10"	"Male"	"M"	5592
+"Total"	"2014"	"2014"	"Delaware"	"10"			10972
+	"2014"	"2014"	"District of Columbia"	"11"	"Female"	"F"	4705
+	"2014"	"2014"	"District of Columbia"	"11"	"Male"	"M"	4804
+"Total"	"2014"	"2014"	"District of Columbia"	"11"			9509
+	"2014"	"2014"	"Florida"	"12"	"Female"	"F"	107208
+	"2014"	"2014"	"Florida"	"12"	"Male"	"M"	112783
+"Total"	"2014"	"2014"	"Florida"	"12"			219991
+	"2014"	"2014"	"Georgia"	"13"	"Female"	"F"	64249
+	"2014"	"2014"	"Georgia"	"13"	"Male"	"M"	66697
+"Total"	"2014"	"2014"	"Georgia"	"13"			130946
+	"2014"	"2014"	"Hawaii"	"15"	"Female"	"F"	8944
+	"2014"	"2014"	"Hawaii"	"15"	"Male"	"M"	9606
+"Total"	"2014"	"2014"	"Hawaii"	"15"			18550
+	"2014"	"2014"	"Idaho"	"16"	"Female"	"F"	11130
+	"2014"	"2014"	"Idaho"	"16"	"Male"	"M"	11746
+"Total"	"2014"	"2014"	"Idaho"	"16"			22876
+	"2014"	"2014"	"Illinois"	"17"	"Female"	"F"	77454
+	"2014"	"2014"	"Illinois"	"17"	"Male"	"M"	81102
+"Total"	"2014"	"2014"	"Illinois"	"17"			158556
+	"2014"	"2014"	"Indiana"	"18"	"Female"	"F"	40876
+	"2014"	"2014"	"Indiana"	"18"	"Male"	"M"	43204
+"Total"	"2014"	"2014"	"Indiana"	"18"			84080
+	"2014"	"2014"	"Iowa"	"19"	"Female"	"F"	19210
+	"2014"	"2014"	"Iowa"	"19"	"Male"	"M"	20477
+"Total"	"2014"	"2014"	"Iowa"	"19"			39687
+	"2014"	"2014"	"Kansas"	"20"	"Female"	"F"	19227
+	"2014"	"2014"	"Kansas"	"20"	"Male"	"M"	19996
+"Total"	"2014"	"2014"	"Kansas"	"20"			39223
+	"2014"	"2014"	"Kentucky"	"21"	"Female"	"F"	27328
+	"2014"	"2014"	"Kentucky"	"21"	"Male"	"M"	28842
+"Total"	"2014"	"2014"	"Kentucky"	"21"			56170
+	"2014"	"2014"	"Louisiana"	"22"	"Female"	"F"	31597
+	"2014"	"2014"	"Louisiana"	"22"	"Male"	"M"	32900
+"Total"	"2014"	"2014"	"Louisiana"	"22"			64497
+	"2014"	"2014"	"Maine"	"23"	"Female"	"F"	6203
+	"2014"	"2014"	"Maine"	"23"	"Male"	"M"	6495
+"Total"	"2014"	"2014"	"Maine"	"23"			12698
+	"2014"	"2014"	"Maryland"	"24"	"Female"	"F"	36111
+	"2014"	"2014"	"Maryland"	"24"	"Male"	"M"	37810
+"Total"	"2014"	"2014"	"Maryland"	"24"			73921
+	"2014"	"2014"	"Massachusetts"	"25"	"Female"	"F"	35004
+	"2014"	"2014"	"Massachusetts"	"25"	"Male"	"M"	36904
+"Total"	"2014"	"2014"	"Massachusetts"	"25"			71908
+	"2014"	"2014"	"Michigan"	"26"	"Female"	"F"	55571
+	"2014"	"2014"	"Michigan"	"26"	"Male"	"M"	58804
+"Total"	"2014"	"2014"	"Michigan"	"26"			114375
+	"2014"	"2014"	"Minnesota"	"27"	"Female"	"F"	34379
+	"2014"	"2014"	"Minnesota"	"27"	"Male"	"M"	35525
+"Total"	"2014"	"2014"	"Minnesota"	"27"			69904
+	"2014"	"2014"	"Mississippi"	"28"	"Female"	"F"	19089
+	"2014"	"2014"	"Mississippi"	"28"	"Male"	"M"	19647
+"Total"	"2014"	"2014"	"Mississippi"	"28"			38736
+	"2014"	"2014"	"Missouri"	"29"	"Female"	"F"	36642
+	"2014"	"2014"	"Missouri"	"29"	"Male"	"M"	38718
+"Total"	"2014"	"2014"	"Missouri"	"29"			75360
+	"2014"	"2014"	"Montana"	"30"	"Female"	"F"	6112
+	"2014"	"2014"	"Montana"	"30"	"Male"	"M"	6320
+"Total"	"2014"	"2014"	"Montana"	"30"			12432
+	"2014"	"2014"	"Nebraska"	"31"	"Female"	"F"	12933
+	"2014"	"2014"	"Nebraska"	"31"	"Male"	"M"	13861
+"Total"	"2014"	"2014"	"Nebraska"	"31"			26794
+	"2014"	"2014"	"Nevada"	"32"	"Female"	"F"	17482
+	"2014"	"2014"	"Nevada"	"32"	"Male"	"M"	18379
+"Total"	"2014"	"2014"	"Nevada"	"32"			35861
+	"2014"	"2014"	"New Hampshire"	"33"	"Female"	"F"	6020
+	"2014"	"2014"	"New Hampshire"	"33"	"Male"	"M"	6282
+"Total"	"2014"	"2014"	"New Hampshire"	"33"			12302
+	"2014"	"2014"	"New Jersey"	"34"	"Female"	"F"	50614
+	"2014"	"2014"	"New Jersey"	"34"	"Male"	"M"	52691
+"Total"	"2014"	"2014"	"New Jersey"	"34"			103305
+	"2014"	"2014"	"New Mexico"	"35"	"Female"	"F"	12784
+	"2014"	"2014"	"New Mexico"	"35"	"Male"	"M"	13268
+"Total"	"2014"	"2014"	"New Mexico"	"35"			26052
+	"2014"	"2014"	"New York"	"36"	"Female"	"F"	117199
+	"2014"	"2014"	"New York"	"36"	"Male"	"M"	121574
+"Total"	"2014"	"2014"	"New York"	"36"			238773
+	"2014"	"2014"	"North Carolina"	"37"	"Female"	"F"	59148
+	"2014"	"2014"	"North Carolina"	"37"	"Male"	"M"	61827
+"Total"	"2014"	"2014"	"North Carolina"	"37"			120975
+	"2014"	"2014"	"North Dakota"	"38"	"Female"	"F"	5630
+	"2014"	"2014"	"North Dakota"	"38"	"Male"	"M"	5729
+"Total"	"2014"	"2014"	"North Dakota"	"38"			11359
+	"2014"	"2014"	"Ohio"	"39"	"Female"	"F"	68151
+	"2014"	"2014"	"Ohio"	"39"	"Male"	"M"	71316
+"Total"	"2014"	"2014"	"Ohio"	"39"			139467
+	"2014"	"2014"	"Oklahoma"	"40"	"Female"	"F"	26123
+	"2014"	"2014"	"Oklahoma"	"40"	"Male"	"M"	27216
+"Total"	"2014"	"2014"	"Oklahoma"	"40"			53339
+	"2014"	"2014"	"Oregon"	"41"	"Female"	"F"	22290
+	"2014"	"2014"	"Oregon"	"41"	"Male"	"M"	23266
+"Total"	"2014"	"2014"	"Oregon"	"41"			45556
+	"2014"	"2014"	"Pennsylvania"	"42"	"Female"	"F"	69393
+	"2014"	"2014"	"Pennsylvania"	"42"	"Male"	"M"	72875
+"Total"	"2014"	"2014"	"Pennsylvania"	"42"			142268
+	"2014"	"2014"	"Rhode Island"	"44"	"Female"	"F"	5291
+	"2014"	"2014"	"Rhode Island"	"44"	"Male"	"M"	5532
+"Total"	"2014"	"2014"	"Rhode Island"	"44"			10823
+	"2014"	"2014"	"South Carolina"	"45"	"Female"	"F"	28254
+	"2014"	"2014"	"South Carolina"	"45"	"Male"	"M"	29373
+"Total"	"2014"	"2014"	"South Carolina"	"45"			57627
+	"2014"	"2014"	"South Dakota"	"46"	"Female"	"F"	5971
+	"2014"	"2014"	"South Dakota"	"46"	"Male"	"M"	6312
+"Total"	"2014"	"2014"	"South Dakota"	"46"			12283
+	"2014"	"2014"	"Tennessee"	"47"	"Female"	"F"	39992
+	"2014"	"2014"	"Tennessee"	"47"	"Male"	"M"	41610
+"Total"	"2014"	"2014"	"Tennessee"	"47"			81602
+	"2014"	"2014"	"Texas"	"48"	"Female"	"F"	195118
+	"2014"	"2014"	"Texas"	"48"	"Male"	"M"	204648
+"Total"	"2014"	"2014"	"Texas"	"48"			399766
+	"2014"	"2014"	"Utah"	"49"	"Female"	"F"	24859
+	"2014"	"2014"	"Utah"	"49"	"Male"	"M"	26295
+"Total"	"2014"	"2014"	"Utah"	"49"			51154
+	"2014"	"2014"	"Vermont"	"50"	"Female"	"F"	2953
+	"2014"	"2014"	"Vermont"	"50"	"Male"	"M"	3177
+"Total"	"2014"	"2014"	"Vermont"	"50"			6130
+	"2014"	"2014"	"Virginia"	"51"	"Female"	"F"	50534
+	"2014"	"2014"	"Virginia"	"51"	"Male"	"M"	52766
+"Total"	"2014"	"2014"	"Virginia"	"51"			103300
+	"2014"	"2014"	"Washington"	"53"	"Female"	"F"	43191
+	"2014"	"2014"	"Washington"	"53"	"Male"	"M"	45394
+"Total"	"2014"	"2014"	"Washington"	"53"			88585
+	"2014"	"2014"	"West Virginia"	"54"	"Female"	"F"	9941
+	"2014"	"2014"	"West Virginia"	"54"	"Male"	"M"	10360
+"Total"	"2014"	"2014"	"West Virginia"	"54"			20301
+	"2014"	"2014"	"Wisconsin"	"55"	"Female"	"F"	32595
+	"2014"	"2014"	"Wisconsin"	"55"	"Male"	"M"	34566
+"Total"	"2014"	"2014"	"Wisconsin"	"55"			67161
+	"2014"	"2014"	"Wyoming"	"56"	"Female"	"F"	3662
+	"2014"	"2014"	"Wyoming"	"56"	"Male"	"M"	4034
+"Total"	"2014"	"2014"	"Wyoming"	"56"			7696
+"Total"	"2014"	"2014"					3988076
+	"2015"	"2015"	"Alabama"	"01"	"Female"	"F"	29306
+	"2015"	"2015"	"Alabama"	"01"	"Male"	"M"	30351
+"Total"	"2015"	"2015"	"Alabama"	"01"			59657
+	"2015"	"2015"	"Alaska"	"02"	"Female"	"F"	5493
+	"2015"	"2015"	"Alaska"	"02"	"Male"	"M"	5789
+"Total"	"2015"	"2015"	"Alaska"	"02"			11282
+	"2015"	"2015"	"Arizona"	"04"	"Female"	"F"	41600
+	"2015"	"2015"	"Arizona"	"04"	"Male"	"M"	43751
+"Total"	"2015"	"2015"	"Arizona"	"04"			85351
+	"2015"	"2015"	"Arkansas"	"05"	"Female"	"F"	18939
+	"2015"	"2015"	"Arkansas"	"05"	"Male"	"M"	19947
+"Total"	"2015"	"2015"	"Arkansas"	"05"			38886
+	"2015"	"2015"	"California"	"06"	"Female"	"F"	239565
+	"2015"	"2015"	"California"	"06"	"Male"	"M"	252183
+"Total"	"2015"	"2015"	"California"	"06"			491748
+	"2015"	"2015"	"Colorado"	"08"	"Female"	"F"	32548
+	"2015"	"2015"	"Colorado"	"08"	"Male"	"M"	34033
+"Total"	"2015"	"2015"	"Colorado"	"08"			66581
+	"2015"	"2015"	"Connecticut"	"09"	"Female"	"F"	17541
+	"2015"	"2015"	"Connecticut"	"09"	"Male"	"M"	18205
+"Total"	"2015"	"2015"	"Connecticut"	"09"			35746
+	"2015"	"2015"	"Delaware"	"10"	"Female"	"F"	5600
+	"2015"	"2015"	"Delaware"	"10"	"Male"	"M"	5566
+"Total"	"2015"	"2015"	"Delaware"	"10"			11166
+	"2015"	"2015"	"District of Columbia"	"11"	"Female"	"F"	4680
+	"2015"	"2015"	"District of Columbia"	"11"	"Male"	"M"	4898
+"Total"	"2015"	"2015"	"District of Columbia"	"11"			9578
+	"2015"	"2015"	"Florida"	"12"	"Female"	"F"	109167
+	"2015"	"2015"	"Florida"	"12"	"Male"	"M"	115102
+"Total"	"2015"	"2015"	"Florida"	"12"			224269
+	"2015"	"2015"	"Georgia"	"13"	"Female"	"F"	64383
+	"2015"	"2015"	"Georgia"	"13"	"Male"	"M"	67021
+"Total"	"2015"	"2015"	"Georgia"	"13"			131404
+	"2015"	"2015"	"Hawaii"	"15"	"Female"	"F"	9061
+	"2015"	"2015"	"Hawaii"	"15"	"Male"	"M"	9359
+"Total"	"2015"	"2015"	"Hawaii"	"15"			18420
+	"2015"	"2015"	"Idaho"	"16"	"Female"	"F"	11328
+	"2015"	"2015"	"Idaho"	"16"	"Male"	"M"	11499
+"Total"	"2015"	"2015"	"Idaho"	"16"			22827
+	"2015"	"2015"	"Illinois"	"17"	"Female"	"F"	77080
+	"2015"	"2015"	"Illinois"	"17"	"Male"	"M"	81036
+"Total"	"2015"	"2015"	"Illinois"	"17"			158116
+	"2015"	"2015"	"Indiana"	"18"	"Female"	"F"	40817
+	"2015"	"2015"	"Indiana"	"18"	"Male"	"M"	43223
+"Total"	"2015"	"2015"	"Indiana"	"18"			84040
+	"2015"	"2015"	"Iowa"	"19"	"Female"	"F"	19223
+	"2015"	"2015"	"Iowa"	"19"	"Male"	"M"	20259
+"Total"	"2015"	"2015"	"Iowa"	"19"			39482
+	"2015"	"2015"	"Kansas"	"20"	"Female"	"F"	19173
+	"2015"	"2015"	"Kansas"	"20"	"Male"	"M"	19981
+"Total"	"2015"	"2015"	"Kansas"	"20"			39154
+	"2015"	"2015"	"Kentucky"	"21"	"Female"	"F"	27347
+	"2015"	"2015"	"Kentucky"	"21"	"Male"	"M"	28624
+"Total"	"2015"	"2015"	"Kentucky"	"21"			55971
+	"2015"	"2015"	"Louisiana"	"22"	"Female"	"F"	31820
+	"2015"	"2015"	"Louisiana"	"22"	"Male"	"M"	32872
+"Total"	"2015"	"2015"	"Louisiana"	"22"			64692
+	"2015"	"2015"	"Maine"	"23"	"Female"	"F"	6077
+	"2015"	"2015"	"Maine"	"23"	"Male"	"M"	6530
+"Total"	"2015"	"2015"	"Maine"	"23"			12607
+	"2015"	"2015"	"Maryland"	"24"	"Female"	"F"	36035
+	"2015"	"2015"	"Maryland"	"24"	"Male"	"M"	37581
+"Total"	"2015"	"2015"	"Maryland"	"24"			73616
+	"2015"	"2015"	"Massachusetts"	"25"	"Female"	"F"	34770
+	"2015"	"2015"	"Massachusetts"	"25"	"Male"	"M"	36722
+"Total"	"2015"	"2015"	"Massachusetts"	"25"			71492
+	"2015"	"2015"	"Michigan"	"26"	"Female"	"F"	55563
+	"2015"	"2015"	"Michigan"	"26"	"Male"	"M"	57749
+"Total"	"2015"	"2015"	"Michigan"	"26"			113312
+	"2015"	"2015"	"Minnesota"	"27"	"Female"	"F"	33907
+	"2015"	"2015"	"Minnesota"	"27"	"Male"	"M"	35927
+"Total"	"2015"	"2015"	"Minnesota"	"27"			69834
+	"2015"	"2015"	"Mississippi"	"28"	"Female"	"F"	18781
+	"2015"	"2015"	"Mississippi"	"28"	"Male"	"M"	19613
+"Total"	"2015"	"2015"	"Mississippi"	"28"			38394
+	"2015"	"2015"	"Missouri"	"29"	"Female"	"F"	36669
+	"2015"	"2015"	"Missouri"	"29"	"Male"	"M"	38392
+"Total"	"2015"	"2015"	"Missouri"	"29"			75061
+	"2015"	"2015"	"Montana"	"30"	"Female"	"F"	6194
+	"2015"	"2015"	"Montana"	"30"	"Male"	"M"	6389
+"Total"	"2015"	"2015"	"Montana"	"30"			12583
+	"2015"	"2015"	"Nebraska"	"31"	"Female"	"F"	12945
+	"2015"	"2015"	"Nebraska"	"31"	"Male"	"M"	13734
+"Total"	"2015"	"2015"	"Nebraska"	"31"			26679
+	"2015"	"2015"	"Nevada"	"32"	"Female"	"F"	17699
+	"2015"	"2015"	"Nevada"	"32"	"Male"	"M"	18599
+"Total"	"2015"	"2015"	"Nevada"	"32"			36298
+	"2015"	"2015"	"New Hampshire"	"33"	"Female"	"F"	6145
+	"2015"	"2015"	"New Hampshire"	"33"	"Male"	"M"	6288
+"Total"	"2015"	"2015"	"New Hampshire"	"33"			12433
+	"2015"	"2015"	"New Jersey"	"34"	"Female"	"F"	50651
+	"2015"	"2015"	"New Jersey"	"34"	"Male"	"M"	52476
+"Total"	"2015"	"2015"	"New Jersey"	"34"			103127
+	"2015"	"2015"	"New Mexico"	"35"	"Female"	"F"	12647
+	"2015"	"2015"	"New Mexico"	"35"	"Male"	"M"	13169
+"Total"	"2015"	"2015"	"New Mexico"	"35"			25816
+	"2015"	"2015"	"New York"	"36"	"Female"	"F"	115418
+	"2015"	"2015"	"New York"	"36"	"Male"	"M"	121856
+"Total"	"2015"	"2015"	"New York"	"36"			237274
+	"2015"	"2015"	"North Carolina"	"37"	"Female"	"F"	59025
+	"2015"	"2015"	"North Carolina"	"37"	"Male"	"M"	61818
+"Total"	"2015"	"2015"	"North Carolina"	"37"			120843
+	"2015"	"2015"	"North Dakota"	"38"	"Female"	"F"	5508
+	"2015"	"2015"	"North Dakota"	"38"	"Male"	"M"	5806
+"Total"	"2015"	"2015"	"North Dakota"	"38"			11314
+	"2015"	"2015"	"Ohio"	"39"	"Female"	"F"	67978
+	"2015"	"2015"	"Ohio"	"39"	"Male"	"M"	71286
+"Total"	"2015"	"2015"	"Ohio"	"39"			139264
+	"2015"	"2015"	"Oklahoma"	"40"	"Female"	"F"	25841
+	"2015"	"2015"	"Oklahoma"	"40"	"Male"	"M"	27281
+"Total"	"2015"	"2015"	"Oklahoma"	"40"			53122
+	"2015"	"2015"	"Oregon"	"41"	"Female"	"F"	22203
+	"2015"	"2015"	"Oregon"	"41"	"Male"	"M"	23452
+"Total"	"2015"	"2015"	"Oregon"	"41"			45655
+	"2015"	"2015"	"Pennsylvania"	"42"	"Female"	"F"	68965
+	"2015"	"2015"	"Pennsylvania"	"42"	"Male"	"M"	72082
+"Total"	"2015"	"2015"	"Pennsylvania"	"42"			141047
+	"2015"	"2015"	"Rhode Island"	"44"	"Female"	"F"	5389
+	"2015"	"2015"	"Rhode Island"	"44"	"Male"	"M"	5604
+"Total"	"2015"	"2015"	"Rhode Island"	"44"			10993
+	"2015"	"2015"	"South Carolina"	"45"	"Female"	"F"	28544
+	"2015"	"2015"	"South Carolina"	"45"	"Male"	"M"	29595
+"Total"	"2015"	"2015"	"South Carolina"	"45"			58139
+	"2015"	"2015"	"South Dakota"	"46"	"Female"	"F"	5892
+	"2015"	"2015"	"South Dakota"	"46"	"Male"	"M"	6444
+"Total"	"2015"	"2015"	"South Dakota"	"46"			12336
+	"2015"	"2015"	"Tennessee"	"47"	"Female"	"F"	39950
+	"2015"	"2015"	"Tennessee"	"47"	"Male"	"M"	41735
+"Total"	"2015"	"2015"	"Tennessee"	"47"			81685
+	"2015"	"2015"	"Texas"	"48"	"Female"	"F"	197552
+	"2015"	"2015"	"Texas"	"48"	"Male"	"M"	206066
+"Total"	"2015"	"2015"	"Texas"	"48"			403618
+	"2015"	"2015"	"Utah"	"49"	"Female"	"F"	24709
+	"2015"	"2015"	"Utah"	"49"	"Male"	"M"	26069
+"Total"	"2015"	"2015"	"Utah"	"49"			50778
+	"2015"	"2015"	"Vermont"	"50"	"Female"	"F"	2839
+	"2015"	"2015"	"Vermont"	"50"	"Male"	"M"	3064
+"Total"	"2015"	"2015"	"Vermont"	"50"			5903
+	"2015"	"2015"	"Virginia"	"51"	"Female"	"F"	50378
+	"2015"	"2015"	"Virginia"	"51"	"Male"	"M"	52925
+"Total"	"2015"	"2015"	"Virginia"	"51"			103303
+	"2015"	"2015"	"Washington"	"53"	"Female"	"F"	43142
+	"2015"	"2015"	"Washington"	"53"	"Male"	"M"	45848
+"Total"	"2015"	"2015"	"Washington"	"53"			88990
+	"2015"	"2015"	"West Virginia"	"54"	"Female"	"F"	9707
+	"2015"	"2015"	"West Virginia"	"54"	"Male"	"M"	10098
+"Total"	"2015"	"2015"	"West Virginia"	"54"			19805
+	"2015"	"2015"	"Wisconsin"	"55"	"Female"	"F"	32828
+	"2015"	"2015"	"Wisconsin"	"55"	"Male"	"M"	34213
+"Total"	"2015"	"2015"	"Wisconsin"	"55"			67041
+	"2015"	"2015"	"Wyoming"	"56"	"Female"	"F"	3714
+	"2015"	"2015"	"Wyoming"	"56"	"Male"	"M"	4051
+"Total"	"2015"	"2015"	"Wyoming"	"56"			7765
+"Total"	"2015"	"2015"					3978497
+"Total"							36499163
+"---"
+"Dataset: Natality, 2007-2015"
+"Query Parameters:"
+"Title:"
+"Age of Mother 9: All"
+"Birthplace: All"
+"Birth Weight 12: All"
+"Chronic Hypertension: All"
+"Delivery Method: All"
+"Diabetes: All"
+"Eclampsia: All"
+"Education: All"
+"Gender: Female, Male"
+"Hispanic Origin: All"
+"Live Birth Order: All"
+"LMP Gestational Age 11: All"
+"Marital Status: All"
+"Medical Attendant: All"
+"Month: All"
+"Month Prenatal Care Began: All"
+"OE Gestational Age 11: All"
+"Plurality or Multiple Birth: All"
+"Pregnancy-associated Hypertension: All"
+"Race: All"
+"States: All"
+"Tobacco Use: All"
+"Weekday: All"
+"Year: 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015"
+"Group By: Year, State, Gender"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality.html for more information."
+"---"
+"Query Date: May 22, 2017 10:58:17 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data 2007-2015, on CDC"
+"WONDER Online Database, February 2017. Accessed at http://wonder.cdc.gov/natality-current.html on May 22, 2017 10:58:17 PM"
+"---"
+Caveats:
+"1. Each birth record represents one living baby."
